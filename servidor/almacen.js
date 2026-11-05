@@ -2,7 +2,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import { setTimeout as esperar } from 'node:timers/promises';
 
-const DIR_DATOS = path.resolve('datos');
+import { DIR_DATOS } from './rutas-almacenamiento.js';
 const DIR_RESPALDOS = path.join(DIR_DATOS, 'respaldos');
 const DIR_CONFIG = path.join(DIR_DATOS, 'config');
 
