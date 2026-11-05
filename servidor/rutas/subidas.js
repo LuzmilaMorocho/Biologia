@@ -5,9 +5,10 @@ import crypto from 'node:crypto';
 import fs from 'fs';
 import { exigirRol } from '../auth.js';
 import * as almacen from '../almacen.js';
+import { DIR_SUBIDAS } from '../rutas-almacenamiento.js';
 
 const router = Router();
-const DIR_SUBIDAS = path.resolve('publico', 'recursos', 'subidas');
+
 
 // Asegurar que el directorio de subidas exista
 if (!fs.existsSync(DIR_SUBIDAS)) {

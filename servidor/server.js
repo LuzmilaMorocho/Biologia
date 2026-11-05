@@ -9,6 +9,7 @@ import * as almacen from './almacen.js';
 import { puede } from './permisos.js';
 import * as ganchos from './ganchos.js';
 import { cargarUsuario } from './auth.js';
+import { DIR_SUBIDAS } from './rutas-almacenamiento.js';
 
 const app = express();
 const PUERTO = process.env.PUERTO || 3000;
@@ -16,6 +17,7 @@ const DIR_RUTAS = path.resolve('servidor', 'rutas');
 
 // Middlewares base
 app.use(express.json({ limit: '1mb' }));
+app.use('/recursos/subidas', express.static(DIR_SUBIDAS, { fallthrough: false }));
 app.use(express.static('publico'));
 app.use(cargarUsuario);
 
