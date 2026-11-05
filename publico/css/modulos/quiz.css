@@ -1,0 +1,43 @@
+.quiz {
+  display: grid;
+  gap: var(--espaciado-l);
+  min-width: 0;
+}
+
+.quiz__niveles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, calc(var(--espaciado-2xl) * 4)), 1fr));
+  gap: var(--espaciado-m);
+}
+
+.quiz__nivel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-s);
+  overflow-wrap: anywhere;
+}
+
+.quiz__acciones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--espaciado-s);
+}
+
+.quiz__acciones .btn,
+.quiz__nivel .btn {
+  white-space: normal;
+  max-width: 100%;
+}
+
+.quiz__pregunta {
+  overflow-wrap: anywhere;
+}
+
+.quiz__repaso {
+  padding-inline-start: var(--espaciado-l);
+}
+
+.quiz__porcentaje {
+  font-size: var(--tamano-3xl);
+  font-weight: var(--peso-negrita);
+}

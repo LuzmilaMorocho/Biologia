@@ -1,0 +1,15 @@
+.admin-ia {
+  display: grid;
+  gap: var(--espaciado-l);
+  min-width: 0;
+}
+
+.admin-ia__acciones {
+  display: flex;
+  gap: var(--espaciado-s);
+  flex-wrap: wrap;
+}
+
+.admin-ia__resultado {
+  overflow-wrap: anywhere;
+}

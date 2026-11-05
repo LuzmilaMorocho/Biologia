@@ -1,0 +1,25 @@
+.banco-preguntas {
+  display: grid;
+  gap: var(--espaciado-l);
+  min-width: 0;
+}
+
+.banco-preguntas__acciones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--espaciado-s);
+}
+
+.banco-preguntas__lista {
+  display: grid;
+  gap: var(--espaciado-m);
+}
+
+.banco-preguntas__lista article {
+  overflow-wrap: anywhere;
+}
+
+.banco-preguntas__opciones {
+  padding-inline-start: var(--espaciado-l);
+  margin-block: var(--espaciado-s);
+}

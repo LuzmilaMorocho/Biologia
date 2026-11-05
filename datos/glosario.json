@@ -1,0 +1,167 @@
+[
+  {
+    "id": "glo_000009",
+    "temaId": "tem_000001",
+    "termino": "RECURSO",
+    "definicion": "Elemento o bien de la naturaleza que las personas utilizan para satisfacer necesidades.",
+    "pista": "Algo que obtenemos de la naturaleza.",
+    "retroalimentacion": "¡Correcto! Un recurso natural es un elemento o bien de la naturaleza que las personas pueden aprovechar.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "fecha": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": "glo_000010",
+    "temaId": "tem_000001",
+    "termino": "NATURAL",
+    "definicion": "Que se origina en la naturaleza y no ha sido creado completamente por las personas.",
+    "pista": "Lo contrario de artificial.",
+    "retroalimentacion": "¡Muy bien! Los recursos naturales se originan en la naturaleza y son útiles para los seres vivos y las sociedades.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "fecha": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": "glo_000011",
+    "temaId": "tem_000001",
+    "termino": "RENOVABLE",
+    "definicion": "Recurso que puede regenerarse naturalmente, aunque puede agotarse si se utiliza más rápido de lo que se recupera.",
+    "pista": "Puede volver a formarse o recuperarse.",
+    "retroalimentacion": "¡Correcto! Puede regenerarse, pero su disponibilidad depende de que se use responsablemente y se respete su tiempo de recuperación.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "fecha": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": "glo_000012",
+    "temaId": "tem_000001",
+    "termino": "MINERAL",
+    "definicion": "Sustancia natural del suelo o subsuelo que puede extraerse y aprovecharse.",
+    "pista": "El cobre y el oro pertenecen a este grupo.",
+    "retroalimentacion": "¡Correcto! Los minerales se extraen de la corteza terrestre y, por lo general, se consideran recursos no renovables.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "fecha": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": "glo_000023",
+    "temaId": "tem_000002",
+    "termino": "BIODIVERSIDAD",
+    "definicion": "Variedad de vida que incluye diversidad de ecosistemas, especies y genes.",
+    "pista": "Comprende distintas formas de vida y sus ambientes.",
+    "retroalimentacion": "¡Correcto! La biodiversidad incluye la variedad de vida en diferentes niveles.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "fecha": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "temaId": "tem_000001",
+    "termino": "BOSQUE",
+    "definicion": "Ecosistema con abundancia de árboles y otros seres vivos; provee hábitat y recursos.",
+    "pista": "Ecosistema terrestre con muchos árboles.",
+    "retroalimentacion": "¡Exacto! Los bosques albergan biodiversidad, protegen el suelo y proporcionan recursos; su uso debe permitir su conservación y regeneración.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000025",
+    "fecha": "2026-10-31T19:59:29.449Z"
+  },
+  {
+    "temaId": "tem_000001",
+    "termino": "SUELO",
+    "definicion": "Capa superficial de la Tierra donde crecen las plantas y viven numerosos organismos.",
+    "pista": "Allí se cultivan muchos alimentos.",
+    "retroalimentacion": "¡Muy bien! El suelo sostiene el crecimiento de las plantas y puede degradarse por contaminación, erosión o uso inadecuado.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000026",
+    "fecha": "2026-10-31T20:00:16.503Z"
+  },
+  {
+    "temaId": "tem_000001",
+    "termino": "AGUA",
+    "definicion": "Recurso esencial para los seres vivos, los ecosistemas y numerosas actividades humanas.",
+    "pista": "La bebemos y también forma ríos y lagos.",
+    "retroalimentacion": "¡Correcto! El agua circula mediante el ciclo hidrológico, pero el agua dulce disponible puede contaminarse o escasear localmente.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000027",
+    "fecha": "2026-10-31T20:01:09.520Z"
+  },
+  {
+    "temaId": "tem_000001",
+    "termino": "VIENTO",
+    "definicion": "Movimiento del aire que puede aprovecharse para generar energía.",
+    "pista": "Mueve las aspas de los aerogeneradores.",
+    "retroalimentacion": "¡Exacto! El viento es una fuente renovable que puede aprovecharse para generar energía eólica.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000028",
+    "fecha": "2026-10-31T20:01:50.046Z"
+  },
+  {
+    "temaId": "tem_000001",
+    "termino": "SOLAR",
+    "definicion": "Relacionado con la energía que proviene del Sol.",
+    "pista": "Tipo de energía que captan los paneles.",
+    "retroalimentacion": "¡Muy bien! La energía solar proviene del Sol y puede aprovecharse mediante tecnologías como los paneles solares.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000029",
+    "fecha": "2026-10-31T20:02:32.681Z"
+  },
+  {
+    "temaId": "tem_000002",
+    "termino": "ESPECIE",
+    "definicion": "Grupo de organismos con características comunes que pueden reproducirse entre sí y tener descendencia fértil.",
+    "pista": "Los jaguares pertenecen a una; los cóndores, a otra.",
+    "retroalimentacion": "¡Muy bien! Cada especie forma parte de la biodiversidad.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000030",
+    "fecha": "2026-10-31T20:28:34.700Z"
+  },
+  {
+    "temaId": "tem_000002",
+    "termino": "HABITAT",
+    "definicion": "Lugar y conjunto de condiciones donde vive un organismo.",
+    "pista": "Es el espacio donde una especie encuentra alimento y refugio.",
+    "retroalimentacion": "¡Exacto! La conservación del hábitat ayuda a proteger a las especies que dependen de él.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000031",
+    "fecha": "2026-10-31T20:29:32.071Z"
+  },
+  {
+    "temaId": "tem_000002",
+    "termino": "GENETICA",
+    "definicion": "Diversidad hereditaria que existe entre individuos de una misma especie.",
+    "pista": "Se relaciona con los genes y las características heredadas.",
+    "retroalimentacion": "¡Correcto! La diversidad genética puede ayudar a las poblaciones a responder a cambios ambientales.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000032",
+    "fecha": "2026-10-31T20:30:01.439Z"
+  },
+  {
+    "temaId": "tem_000002",
+    "termino": "ECOSISTEMA",
+    "definicion": "Conjunto de seres vivos y el ambiente físico con el que interactúan.",
+    "pista": "Incluye organismos, agua, suelo, aire y sus relaciones.",
+    "retroalimentacion": "¡Muy bien! La biodiversidad también comprende la variedad de ecosistemas.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000033",
+    "fecha": "2026-10-31T20:30:51.324Z"
+  },
+  {
+    "temaId": "tem_000002",
+    "termino": "BOSQUE",
+    "definicion": "Ecosistema terrestre dominado por árboles y con gran variedad de organismos.",
+    "pista": "Puede ser hábitat de plantas, hongos y animales.",
+    "retroalimentacion": "¡Muy bien! Proteger los bosques ayuda a conservar hábitats y especies.",
+    "origen": "docente",
+    "estado": "aprobado",
+    "id": "glo_000034",
+    "fecha": "2026-10-31T20:31:41.314Z"
+  }
+]

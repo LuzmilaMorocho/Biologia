@@ -1,0 +1,97 @@
+/* Estilos para el Editor de Ficha de Tema y Glosario */
+
+.editor-tema-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--espaciado-m);
+  margin-bottom: var(--espaciado-m);
+  flex-wrap: wrap;
+}
+
+.editor-tema-seccion {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  margin-bottom: var(--espaciado-l);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.lista-dinamica {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xs);
+  margin-top: var(--espaciado-xs);
+}
+
+.item-dinamico {
+  display: flex;
+  align-items: center;
+  gap: var(--espaciado-s);
+  background-color: var(--color-fondo);
+  padding: var(--espaciado-xs) var(--espaciado-s);
+  border-radius: var(--radio-m);
+  border: 1px solid var(--color-borde);
+}
+
+.item-dinamico input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  font-size: var(--tamano-s);
+  color: var(--color-texto);
+}
+
+.item-dinamico input:focus {
+  outline: none;
+}
+
+.contador-palabras {
+  font-size: var(--tamano-xs);
+  color: var(--color-texto);
+  opacity: 0.8;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4px;
+}
+
+.glosario-metricas {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--espaciado-m);
+  padding: var(--espaciado-m);
+  background-color: var(--color-fondo);
+  border-radius: var(--radio-m);
+  border: 1px solid var(--color-borde);
+}
+
+.glosario-metricas__item {
+  display: flex;
+  align-items: center;
+  gap: var(--espaciado-xs);
+  font-size: var(--tamano-s);
+}
+
+.glosario-apto {
+  padding: var(--espaciado-xs) var(--espaciado-s);
+  border-radius: var(--radio-m);
+  font-weight: var(--peso-negrita);
+  font-size: var(--tamano-xs);
+}
+
+.glosario-apto--si {
+  background-color: var(--color-exito);
+  color: var(--color-texto-inverso);
+}
+
+.glosario-apto--no {
+  background-color: var(--color-superficie);
+  color: var(--color-texto);
+  border: 1px solid var(--color-borde);
+}
+

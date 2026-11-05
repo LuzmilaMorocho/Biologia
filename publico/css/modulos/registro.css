@@ -1,0 +1,26 @@
+/* Estilos específicos del módulo registro */
+.registro-contenedor {
+  max-width: 520px; /* PROVISIONAL */
+  margin: var(--espaciado-l) auto;
+}
+
+.registro-formulario {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.registro-casilla {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--espaciado-s);
+  font-size: var(--tamano-s);
+  color: var(--color-texto);
+}
+
+.registro-casilla input[type="checkbox"] {
+  width: 18px; /* PROVISIONAL */
+  height: 18px; /* PROVISIONAL */
+  margin-top: 2px; /* PROVISIONAL */
+  cursor: pointer;
+}

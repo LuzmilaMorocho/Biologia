@@ -1,0 +1,143 @@
+/* Estilos para el panel de seguimiento docente (P06.3) */
+
+.panel-docente-contenedor {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xl);
+}
+
+.panel-docente-cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--espaciado-m);
+}
+
+.panel-docente-filtros {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-m) var(--espaciado-l);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--espaciado-m);
+  box-shadow: var(--sombra-1);
+}
+
+/* Tabla ordenable */
+.th-ordenable {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.th-ordenable:hover {
+  background-color: var(--color-borde);
+}
+
+.th-indicador {
+  font-size: var(--tamano-xs);
+  margin-left: var(--espaciado-xs);
+  opacity: 0.7;
+}
+
+.fila-estudiante {
+  cursor: pointer;
+  transition: background-color var(--transicion);
+}
+
+.fila-estudiante:hover {
+  background-color: var(--color-fondo);
+}
+
+.fila--alerta {
+  background-color: rgba(205, 85, 0, 0.08) !important;
+}
+
+.fila--alerta:hover {
+  background-color: rgba(205, 85, 0, 0.14) !important;
+}
+
+.chip-alerta {
+  border: none;
+  background-color: var(--color-borde);
+  color: var(--color-texto);
+  border-radius: var(--radio-completo);
+  padding: 2px 8px;
+  font-size: var(--tamano-xs);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--espaciado-xs);
+  cursor: pointer;
+  transition: transform var(--transicion), background-color var(--transicion);
+}
+
+.chip-alerta:hover {
+  transform: scale(1.08);
+}
+
+.chip-alerta:focus-visible {
+  outline: 2px solid var(--color-primario);
+  outline-offset: 1px;
+}
+
+/* Contenedor del gráfico de barras por tema */
+.grafico-tema-tarjeta {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  box-shadow: var(--sombra-1);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.grafico-tema-contenedor {
+  position: relative;
+  width: 100%;
+  min-height: 260px;
+  max-height: 360px;
+}
+
+/* Modal de detalle de estudiante */
+.modal-estudiante-metricas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: var(--espaciado-m);
+  margin-bottom: var(--espaciado-m);
+}
+
+.modal-metrica-caja {
+  background-color: var(--color-fondo);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-m);
+  padding: var(--espaciado-s) var(--espaciado-m);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xs);
+  text-align: center;
+}
+
+.modal-intentos-tabla {
+  max-height: 280px;
+  overflow-y: auto;
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-m);
+}
+
+.panel-tutor { display: grid; gap: var(--espaciado-m); min-width: 0; }
+.panel-tutor__datos { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, calc(var(--espaciado-2xl) * 7)), 1fr)); gap: var(--espaciado-l); }
+.panel-tutor__datos > *, .panel-tutor__temas { min-width: 0; }
+.panel-tutor__grafico { position: relative; width: 100%; height: calc(var(--espaciado-2xl) * 8); }
+.panel-tutor__grafico[hidden] { display: none; }
+.panel-tutor table { width: 100%; }
+.panel-tutor th { overflow-wrap: anywhere; }
+.panel-tutor caption { text-align: left; color: var(--color-primario); font-weight: var(--peso-negrita); margin-bottom: var(--espaciado-s); }
+.panel-tutor ol { padding-inline-start: var(--espaciado-l); overflow-wrap: anywhere; }
+.panel-docente-filtros > .fila { flex-wrap: wrap; min-width: 0; max-width: 100%; }
+.panel-docente-selector { min-width: 0; max-width: 100%; width: min(100%, calc(var(--espaciado-2xl) * 8)); padding: var(--espaciado-xs) var(--espaciado-s); }

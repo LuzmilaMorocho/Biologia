@@ -1,0 +1,17 @@
+/* Estilos específicos del módulo prueba-datos */
+.prueba-formulario {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.prueba-lista {
+  margin-top: var(--espaciado-l);
+}
+
+.prueba-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--espaciado-m);
+}

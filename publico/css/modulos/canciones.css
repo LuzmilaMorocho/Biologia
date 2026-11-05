@@ -1,0 +1,128 @@
+/* Estilos para el catálogo y reproductor de Canciones Educativas */
+
+.canciones-cabecera {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--espaciado-m);
+  margin-bottom: var(--espaciado-l);
+  flex-wrap: wrap;
+}
+
+.canciones-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--espaciado-l);
+}
+
+@media (min-width: 860px) {
+  .canciones-layout {
+    grid-template-columns: 360px 1fr;
+    align-items: start;
+  }
+}
+
+.canciones-lista {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-s);
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+.item-cancion {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-m);
+  padding: var(--espaciado-m);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xs);
+  cursor: pointer;
+  transition: border-color var(--transicion), background-color var(--transicion);
+}
+
+.item-cancion:hover {
+  border-color: var(--color-primario);
+}
+
+.item-cancion--activa {
+  border-color: var(--color-primario);
+  background-color: var(--color-fondo);
+  box-shadow: 0 0 0 2px var(--color-primario);
+}
+
+/* Reproductor customizado */
+.reproductor-panel {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.reproductor-controles {
+  display: flex;
+  align-items: center;
+  gap: var(--espaciado-m);
+  flex-wrap: wrap;
+}
+
+.reproductor-progreso-barra {
+  width: 100%;
+  height: 8px;
+  background-color: var(--color-fondo);
+  border-radius: var(--radio-completo);
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--color-borde);
+}
+
+.reproductor-progreso-relleno {
+  height: 100%;
+  background-color: var(--color-primario);
+  width: 0%;
+  transition: width 0.1s linear;
+}
+
+.reproductor-volumen {
+  display: flex;
+  align-items: center;
+  gap: var(--espaciado-xs);
+  margin-left: auto;
+}
+
+.reproductor-volumen input[type="range"] {
+  width: 80px;
+}
+
+/* Panel de Letra y LRC */
+.letra-contenedor {
+  background-color: var(--color-fondo);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-m);
+  padding: var(--espaciado-m);
+  max-height: 380px;
+  overflow-y: auto;
+  line-height: var(--interlineado-base);
+  font-size: var(--tamano-m);
+  scroll-behavior: smooth;
+}
+
+.lrc-linea {
+  padding: 6px 10px;
+  border-radius: var(--radio-s);
+  transition: background-color 0.2s ease, color 0.2s ease, font-weight 0.2s ease;
+  color: var(--color-texto);
+}
+
+.lrc-linea--activa {
+  background-color: var(--color-primario);
+  color: var(--color-texto-inverso);
+  font-weight: var(--peso-negrita);
+  transform: scale(1.02);
+}
+

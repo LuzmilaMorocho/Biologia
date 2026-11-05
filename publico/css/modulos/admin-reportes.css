@@ -1,0 +1,7 @@
+.admin-reportes { display: grid; gap: var(--espaciado-l); min-width: 0; }
+.admin-reportes__lista { display: grid; gap: var(--espaciado-l); }
+.admin-reportes__reporte { display: grid; gap: var(--espaciado-m); overflow-wrap: anywhere; }
+.admin-reportes__contexto { display: grid; gap: var(--espaciado-s); list-style: none; padding: 0; }
+.admin-reportes__mensaje { padding: var(--espaciado-m); background: var(--color-fondo); border-radius: var(--radio-m); }
+.admin-reportes__mensaje--reportado { border-inline-start: var(--espaciado-xs) solid var(--color-acento); }
+.admin-reportes__texto { white-space: pre-wrap; overflow-wrap: anywhere; }

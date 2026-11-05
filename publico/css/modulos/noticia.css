@@ -1,0 +1,36 @@
+/* Estilos para el detalle de una noticia */
+
+.noticia-detalle {
+  max-width: 780px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.noticia-portada-grande {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: var(--radio-l);
+  border: 1px solid var(--color-borde);
+}
+
+.noticia-cuerpo-html {
+  font-size: var(--tamano-m);
+  line-height: var(--interlineado-base);
+}
+
+.noticia-cuerpo-html p {
+  margin-bottom: var(--espaciado-m);
+}
+
+.noticia-cuerpo-html ul {
+  padding-left: var(--espaciado-l);
+  margin-bottom: var(--espaciado-m);
+}
+
+.noticia-cuerpo-html li {
+  margin-bottom: var(--espaciado-xs);
+}
+

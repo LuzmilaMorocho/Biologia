@@ -1,0 +1,163 @@
+/* Estilos para el panel de progreso del estudiante (P06.2) */
+
+.progreso-contenedor {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xl);
+}
+
+.progreso-cabecera {
+  margin-bottom: var(--espaciado-xs);
+}
+
+/* Cuadrícula de Métricas Superiores */
+.progreso-metricas-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--espaciado-m);
+}
+
+@media (min-width: 480px) {
+  .progreso-metricas-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 860px) {
+  .progreso-metricas-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.tarjeta-metrica {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  display: flex;
+  align-items: center;
+  gap: var(--espaciado-m);
+  box-shadow: var(--sombra-1);
+  transition: transform var(--transicion), box-shadow var(--transicion);
+}
+
+.tarjeta-metrica:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--sombra-2);
+}
+
+.tarjeta-metrica__icono {
+  font-size: 2.2rem;
+  line-height: 1;
+  width: 52px;
+  height: 52px;
+  border-radius: var(--radio-m);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-fondo);
+  flex-shrink: 0;
+}
+
+.tarjeta-metrica__cuerpo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xs);
+}
+
+.tarjeta-metrica__etiqueta {
+  font-size: var(--tamano-xs);
+  color: var(--color-texto-suave);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: var(--peso-seminegrita);
+}
+
+.tarjeta-metrica__valor {
+  font-size: var(--tamano-2xl);
+  font-weight: var(--peso-extranegrita);
+  color: var(--color-primario);
+  line-height: 1;
+}
+
+/* Gráficos con Chart.js */
+.progreso-graficos-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--espaciado-l);
+}
+
+@media (min-width: 820px) {
+  .progreso-graficos-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.tarjeta-grafico {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  box-shadow: var(--sombra-1);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.grafico-canvas-contenedor {
+  position: relative;
+  width: 100%;
+  min-height: 240px;
+  max-height: 320px;
+}
+
+/* Lista de Temas Pendientes */
+.pendientes-seccion {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  box-shadow: var(--sombra-1);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.pendientes-lista {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--espaciado-s);
+}
+
+@media (min-width: 600px) {
+  .pendientes-lista {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  }
+}
+
+.pendiente-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--espaciado-m);
+  padding: var(--espaciado-m);
+  border-radius: var(--radio-m);
+  background-color: var(--color-fondo);
+  border: 1px solid var(--color-borde);
+  text-decoration: none;
+  color: var(--color-texto);
+  transition: transform var(--transicion), border-color var(--transicion), background-color var(--transicion);
+}
+
+.pendiente-item:hover {
+  transform: translateY(-2px);
+  border-color: var(--color-acento);
+  background-color: var(--color-superficie);
+}
+
+.pendiente-item__titulo {
+  font-size: var(--tamano-s);
+  font-weight: var(--peso-seminegrita);
+  color: var(--color-primario);
+}
+

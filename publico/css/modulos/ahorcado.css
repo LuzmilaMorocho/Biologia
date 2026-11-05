@@ -1,0 +1,258 @@
+/* Estilos para el juego educativo del Ahorcado (P04.3) */
+
+.ahorcado-contenedor {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-l);
+}
+
+.ahorcado-cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--espaciado-m);
+  border-bottom: 1px solid var(--color-borde);
+  padding-bottom: var(--espaciado-m);
+}
+
+.ahorcado-tablero {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--espaciado-l);
+  box-shadow: var(--sombra-1);
+}
+
+/* Figura no violenta: Globo que se desinfla */
+.ahorcado-figura {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 180px;
+  width: 100%;
+}
+
+.globo-svg {
+  width: 160px;
+  height: 180px;
+  overflow: visible;
+}
+
+.globo-cuerpo {
+  fill: var(--color-acento);
+  stroke: var(--color-primario);
+  stroke-width: 3;
+  transform-origin: 80px 75px;
+  transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1), fill 0.3s ease, opacity 0.3s ease;
+}
+
+.globo-brillo {
+  fill: #ffffff;
+  opacity: 0.6;
+  transition: transform 0.4s ease, opacity 0.3s ease;
+}
+
+.globo-cuerda {
+  stroke: var(--color-texto-suave);
+  stroke-width: 2;
+  stroke-dasharray: 2 1;
+  fill: none;
+  transition: transform 0.4s ease, opacity 0.3s ease;
+}
+
+.globo-nudo {
+  fill: var(--color-primario);
+}
+
+/* Estados de desinflado del globo (0 a 4 errores) */
+.globo-svg--estado-0 .globo-cuerpo {
+  transform: scale(1);
+}
+
+.globo-svg--estado-1 .globo-cuerpo {
+  transform: scale(0.85, 0.88) translateY(10px);
+}
+.globo-svg--estado-1 .globo-brillo {
+  transform: scale(0.85) translate(4px, 10px);
+}
+
+.globo-svg--estado-2 .globo-cuerpo {
+  transform: scale(0.68, 0.65) translateY(28px);
+  fill: #e65c00;
+}
+.globo-svg--estado-2 .globo-brillo {
+  transform: scale(0.65) translate(8px, 26px);
+  opacity: 0.4;
+}
+
+.globo-svg--estado-3 .globo-cuerpo {
+  transform: scale(0.48, 0.38) translateY(55px);
+  fill: #cc5200;
+}
+.globo-svg--estado-3 .globo-brillo {
+  opacity: 0;
+}
+.globo-svg--estado-3 .globo-cuerda {
+  transform: translateY(20px);
+}
+
+.globo-svg--estado-4 .globo-cuerpo {
+  transform: scale(0.35, 0.15) translateY(100px);
+  fill: var(--color-error);
+}
+.globo-svg--estado-4 .globo-brillo {
+  opacity: 0;
+}
+.globo-svg--estado-4 .globo-cuerda {
+  opacity: 0.2;
+  transform: translateY(30px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .globo-cuerpo,
+  .globo-brillo,
+  .globo-cuerda {
+    transition: none;
+  }
+}
+
+.ahorcado-pista {
+  background-color: var(--color-fondo);
+  border: 1px solid var(--color-borde);
+  border-left: 4px solid var(--color-acento);
+  border-radius: var(--radio-m);
+  padding: var(--espaciado-m);
+  width: 100%;
+  text-align: center;
+}
+
+.ahorcado-pista__etiqueta {
+  font-size: var(--tamano-xs);
+  font-weight: var(--peso-seminegrita);
+  color: var(--color-acento);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: var(--espaciado-xs);
+}
+
+.ahorcado-pista__texto {
+  font-size: var(--tamano-m);
+  color: var(--color-texto);
+  margin: 0;
+}
+
+/* Casillas de 6 letras */
+.ahorcado-casillas {
+  display: flex;
+  justify-content: center;
+  gap: var(--espaciado-s);
+  width: 100%;
+  margin: var(--espaciado-m) 0;
+}
+
+.ahorcado-casilla {
+  width: 48px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-fondo);
+  border: 2px solid var(--color-primario);
+  border-radius: var(--radio-m);
+  font-size: var(--tamano-2xl);
+  font-weight: var(--peso-extranegrita);
+  color: var(--color-primario);
+  text-transform: uppercase;
+  user-select: none;
+  box-shadow: var(--sombra-1);
+}
+
+.ahorcado-casilla--acertada {
+  border-color: var(--color-exito);
+  color: var(--color-exito);
+  background-color: rgba(29, 101, 64, 0.08);
+}
+
+.ahorcado-casilla--no-acertada {
+  border-color: var(--color-error);
+  color: var(--color-error);
+  background-color: rgba(178, 79, 8, 0.08);
+}
+
+/* Teclado en pantalla */
+.ahorcado-teclado {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--espaciado-xs);
+  width: 100%;
+  margin-top: var(--espaciado-s);
+}
+
+.teclado-fila {
+  display: flex;
+  justify-content: center;
+  gap: var(--espaciado-xs);
+  width: 100%;
+}
+
+.tecla {
+  min-width: 32px;
+  height: 44px;
+  flex: 1;
+  max-width: 42px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-s);
+  background-color: var(--color-superficie);
+  color: var(--color-texto);
+  font-size: var(--tamano-s);
+  font-weight: var(--peso-seminegrita);
+  cursor: pointer;
+  user-select: none;
+  transition: background-color var(--transicion), transform var(--transicion), border-color var(--transicion);
+}
+
+.tecla:hover:not(:disabled) {
+  background-color: var(--color-fondo);
+  border-color: var(--color-primario);
+}
+
+.tecla:focus-visible {
+  outline: 2px solid var(--color-acento);
+  outline-offset: 1px;
+}
+
+.tecla--acertada {
+  background-color: var(--color-exito) !important;
+  color: var(--color-texto-inverso) !important;
+  border-color: var(--color-exito) !important;
+  opacity: 0.85;
+}
+
+.tecla--fallada {
+  background-color: var(--color-fondo) !important;
+  color: var(--color-texto-suave) !important;
+  border-color: transparent !important;
+  opacity: 0.45;
+  text-decoration: line-through;
+}
+
+.ahorcado-acciones-fin {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--espaciado-m);
+  width: 100%;
+}
+

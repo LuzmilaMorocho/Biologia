@@ -1,0 +1,11 @@
+/* Estilos específicos del módulo ingreso */
+.ingreso-contenedor {
+  max-width: 460px; /* PROVISIONAL */
+  margin: var(--espaciado-xl) auto;
+}
+
+.ingreso-formulario {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}

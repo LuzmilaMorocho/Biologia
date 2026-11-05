@@ -1,0 +1,14 @@
+.editor-simulacion { display: grid; gap: var(--espaciado-l); padding-block: var(--espaciado-l); }
+.editor-simulacion fieldset { border: 0; min-width: 0; padding: 0; margin: 0; }
+.editor-simulacion legend { font-size: var(--tamano-xl); font-weight: var(--peso-negrita); margin-bottom: var(--espaciado-m); }
+.editor-simulacion .campo { min-width: 0; }
+.editor-simulacion input, .editor-simulacion select, .editor-simulacion textarea { max-width: 100%; }
+.editor-simulacion textarea { resize: vertical; }
+.editor-simulacion h1, .editor-simulacion h2, .editor-simulacion li { overflow-wrap: anywhere; }
+.editor-simulacion .tarjeta, .editor-simulacion #editor-escenas, .editor-simulacion #editor-modo-escenarios { display: grid; gap: var(--espaciado-m); min-width: 0; }
+.editor-simulacion [hidden] { display: none; }
+.editor-simulacion #editor-escenas { margin-block: var(--espaciado-m); }
+.editor-simulacion .editor-imagen { max-width: 100%; max-height: calc(var(--espaciado-2xl) * 5); object-fit: contain; }
+.editor-simulacion .editor-mapa { overflow-x: auto; }
+.editor-simulacion .editor-mapa ul { padding-inline-start: var(--espaciado-l); }
+.editor-simulacion .editor-mapa li { margin-block: var(--espaciado-s); }

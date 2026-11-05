@@ -1,0 +1,2 @@
+.crucigrama-pendiente { display: grid; gap: var(--espaciado-m); min-width: 0; }
+.crucigrama-pendiente .fila { flex-wrap: wrap; }

@@ -1,0 +1,62 @@
+/* Estilos para el visor de una asignatura */
+
+.asignatura-tutor {
+  margin-bottom: var(--espaciado-l);
+}
+
+.unidad-bloque {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  margin-bottom: var(--espaciado-l);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.temas-lista-estudiante {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-s);
+}
+
+.tarjeta-tema-estudiante {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--espaciado-m);
+  background-color: var(--color-fondo);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-m);
+  padding: var(--espaciado-m);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color var(--transicion), background-color var(--transicion);
+}
+
+.tarjeta-tema-estudiante:hover {
+  border-color: var(--color-primario);
+}
+
+.estado-revision {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--espaciado-xs);
+  font-size: var(--tamano-xs);
+  font-weight: var(--peso-negrita);
+  padding: var(--espaciado-xs) var(--espaciado-s);
+  border-radius: var(--radio-completo);
+}
+
+.estado-revision--revisado {
+  background-color: var(--color-exito);
+  color: var(--color-texto-inverso);
+}
+
+.estado-revision--pendiente {
+  background-color: var(--color-fondo);
+  color: var(--color-texto);
+  border: 1px solid var(--color-borde);
+}
+

@@ -1,0 +1,199 @@
+/* Estilos para el juego Encuentra la Pareja (P04.4) */
+
+.pareja-contenedor {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-l);
+}
+
+.pareja-cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--espaciado-m);
+  border-bottom: 1px solid var(--color-borde);
+  padding-bottom: var(--espaciado-m);
+}
+
+.pareja-marcador {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--espaciado-m);
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-m) var(--espaciado-l);
+  box-shadow: var(--sombra-1);
+}
+
+.pareja-estadistica {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xs);
+}
+
+.pareja-estadistica__etiqueta {
+  font-size: var(--tamano-xs);
+  color: var(--color-texto-suave);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: var(--peso-seminegrita);
+}
+
+.pareja-estadistica__valor {
+  font-size: var(--tamano-xl);
+  font-weight: var(--peso-extranegrita);
+  color: var(--color-primario);
+}
+
+/* Selector de dificultad */
+.pareja-dificultades {
+  display: flex;
+  align-items: center;
+  gap: var(--espaciado-xs);
+}
+
+/* Cuadrícula de cartas adaptable */
+.pareja-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: var(--espaciado-m);
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .pareja-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  }
+}
+
+/* Tarjeta y Efecto 3D */
+.carta-btn {
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  perspective: 1000px;
+  height: 160px;
+  width: 100%;
+  border-radius: var(--radio-m);
+  outline: none;
+}
+
+.carta-btn:focus-visible .carta-inner {
+  box-shadow: 0 0 0 3px var(--color-acento);
+}
+
+.carta-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: var(--radio-m);
+  transform-style: preserve-3d;
+  transition: transform 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: var(--sombra-1);
+}
+
+.carta-btn.carta--volteada .carta-inner,
+.carta-btn.carta--acertada .carta-inner {
+  transform: rotateY(180deg);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carta-inner {
+    transition: none;
+  }
+}
+
+.carta-cara {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: var(--radio-m);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: var(--espaciado-s);
+  box-sizing: border-box;
+}
+
+/* Dorso (boca abajo) */
+.carta-cara--dorso {
+  background: linear-gradient(135deg, var(--color-primario) 0%, var(--color-secundario) 100%);
+  color: var(--color-texto-inverso);
+  border: 2px solid var(--color-borde);
+  align-items: center;
+  justify-content: center;
+  font-size: var(--tamano-2xl);
+  font-weight: var(--peso-negrita);
+  user-select: none;
+}
+
+.carta-cara--dorso::after {
+  content: '✦';
+  font-size: var(--tamano-3xl);
+  color: var(--color-acento);
+  opacity: 0.85;
+}
+
+/* Frente (boca arriba) */
+.carta-cara--frente {
+  background-color: var(--color-superficie);
+  color: var(--color-texto);
+  border: 2px solid var(--color-primario);
+  transform: rotateY(180deg);
+  overflow: hidden;
+  text-align: center;
+  align-items: center;
+}
+
+.carta-btn.carta--acertada .carta-cara--frente {
+  border-color: var(--color-exito);
+  background-color: rgba(29, 101, 64, 0.08);
+}
+
+.carta-badge {
+  font-size: 10px;
+  font-weight: var(--peso-seminegrita);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 2px 6px;
+  border-radius: var(--radio-s);
+  margin-bottom: var(--espaciado-xs);
+  align-self: center;
+}
+
+.carta-badge--termino {
+  background-color: var(--color-primario);
+  color: var(--color-texto-inverso);
+}
+
+.carta-badge--definicion {
+  background-color: var(--color-fondo);
+  color: var(--color-texto-suave);
+  border: 1px solid var(--color-borde);
+}
+
+.carta-texto {
+  font-size: var(--tamano-xs);
+  line-height: var(--interlineado-compacto);
+  overflow-y: auto;
+  margin: auto 0;
+  max-height: 105px;
+  word-break: break-word;
+}
+
+.carta-texto--termino {
+  font-size: var(--tamano-m);
+  font-weight: var(--peso-negrita);
+  color: var(--color-primario);
+}
+

@@ -1,0 +1,55 @@
+/* Estilos para el catálogo de actividades interactivas */
+
+.actividades-cabecera {
+  margin-bottom: var(--espaciado-xl);
+}
+
+.actividades-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--espaciado-l);
+}
+
+@media (min-width: 600px) {
+  .actividades-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  }
+}
+
+.tarjeta-actividad-catalogo {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-l);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--espaciado-m);
+  box-shadow: var(--sombra-1);
+  transition: transform var(--transicion), box-shadow var(--transicion);
+}
+
+.tarjeta-actividad-catalogo:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--sombra-2);
+}
+
+.tarjeta-actividad-catalogo__icono {
+  font-size: var(--tamano-3xl);
+  line-height: 1;
+}
+
+.tarjeta-actividad-catalogo__titulo {
+  font-size: var(--tamano-xl);
+  color: var(--color-primario);
+  margin: 0;
+}
+
+.tarjeta-actividad-catalogo__desc {
+  font-size: var(--tamano-s);
+  color: var(--color-texto-suave);
+  line-height: var(--interlineado-base);
+  margin: 0;
+  flex: 1;
+}
+

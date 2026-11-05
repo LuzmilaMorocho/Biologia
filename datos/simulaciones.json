@@ -1,0 +1,95 @@
+[
+  {
+    "id": "sim_agua_000001",
+    "fecha": "2026-11-04T15:00:00.000Z",
+    "temaId": "tem_000001",
+    "titulo": "Un acuerdo para cuidar el agua",
+    "modo": "escenarios",
+    "estado": "publicado",
+    "escenaInicial": "E1",
+    "escenas": [
+      {
+        "id": "E1",
+        "texto": "Caso hipotético: una comunidad educativa comparte una fuente de agua con actividades domésticas y agrícolas. Se han observado fugas y el comité debe proponer un plan de uso responsable.",
+        "opciones": [
+          {
+            "texto": "Identificar fugas y reunir información sobre el uso y la recuperación del agua",
+            "destino": "E2",
+            "puntos": 3,
+            "consecuencia": "Reunir información permite reconocer pérdidas y justificar decisiones sin asumir que el agua renovable es ilimitada."
+          },
+          {
+            "texto": "Mantener el consumo porque el ciclo del agua siempre la repone",
+            "destino": "E3",
+            "puntos": -2,
+            "consecuencia": "El ciclo del agua no garantiza que una fuente local se recupere al ritmo de su consumo. Renovable no significa ilimitado."
+          }
+        ]
+      },
+      {
+        "id": "E2",
+        "texto": "El comité necesita priorizar acciones sin desatender las necesidades de las personas. Todavía no cuenta con mediciones suficientes para fijar cantidades de consumo.",
+        "opciones": [
+          {
+            "texto": "Acordar la reparación de fugas y un registro del uso del agua",
+            "destino": "E4",
+            "puntos": 3,
+            "consecuencia": "Reparar fugas evita desperdicios y el registro aporta evidencias para evaluar el plan."
+          },
+          {
+            "texto": "Aplazar toda acción hasta tener información perfecta",
+            "destino": "E3",
+            "puntos": -1,
+            "consecuencia": "Reconocer información incompleta es necesario, pero aplazar la atención de las fugas mantiene el desperdicio observado."
+          }
+        ]
+      },
+      {
+        "id": "E3",
+        "texto": "Una integrante recuerda que la disponibilidad del agua también depende de su calidad y de la recuperación de la fuente. El comité puede revisar su decisión.",
+        "opciones": [
+          {
+            "texto": "Revisar el plan y comenzar por atender las fugas",
+            "destino": "E4",
+            "puntos": 2,
+            "consecuencia": "Rectificar permite pasar de una suposición a una acción viable de uso responsable."
+          },
+          {
+            "texto": "Continuar sin actuar ni registrar los desperdicios",
+            "destino": "E6",
+            "puntos": -4,
+            "consecuencia": "Sin acciones ni seguimiento, el comité no atiende las pérdidas identificadas ni puede evaluar mejoras."
+          }
+        ]
+      },
+      {
+        "id": "E4",
+        "texto": "El comité debe cerrar el acuerdo y decidir cómo revisará sus resultados. También necesita considerar la protección de la fuente y las necesidades compartidas.",
+        "opciones": [
+          {
+            "texto": "Proteger la fuente, acordar responsabilidades y registrar las fugas reparadas",
+            "destino": "E5",
+            "puntos": 4,
+            "consecuencia": "El plan combina cuidado del recurso, participación y un indicador sencillo para evaluar su aplicación."
+          },
+          {
+            "texto": "Declarar que el problema está resuelto sin verificar ninguna acción",
+            "destino": "E6",
+            "puntos": -3,
+            "consecuencia": "Sin seguimiento no hay evidencias que permitan valorar la aplicación del acuerdo."
+          }
+        ]
+      },
+      {
+        "id": "E5",
+        "texto": "La comunidad acuerda acciones y responsabilidades para cuidar el agua. El registro de fugas reparadas permitirá revisar lo realizado sin inventar resultados.",
+        "opciones": []
+      },
+      {
+        "id": "E6",
+        "texto": "El acuerdo necesita mejoras: faltan acciones o evidencias para atender el problema. Repasa los límites de los recursos renovables y propone una medida que se pueda verificar.",
+        "opciones": []
+      }
+    ]
+  }
+]

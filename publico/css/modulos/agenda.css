@@ -1,0 +1,25 @@
+.agenda { display: grid; gap: var(--espaciado-l); min-width: 0; }
+.agenda [hidden] { display: none !important; }
+.agenda__acciones, .agenda__leyenda { display: flex; flex-wrap: wrap; align-items: center; gap: var(--espaciado-s); }
+.agenda__leyenda { list-style: none; margin: 0; padding: 0; }
+.agenda__leyenda li { border-inline-start: var(--espaciado-s) solid; padding-inline-start: var(--espaciado-s); }
+.agenda__tipo--tarea { border-color: var(--agenda-tarea) !important; }
+.agenda__tipo--reunion { border-color: var(--agenda-reunion) !important; }
+.agenda__tipo--fecha-limite { border-color: var(--agenda-fecha-limite) !important; }
+.agenda__tipo--recordatorio { border-color: var(--agenda-recordatorio) !important; }
+.agenda__calendario { min-width: 0; font-size: var(--tamano-s); --fc-border-color: var(--color-borde); --fc-page-bg-color: var(--color-superficie); --fc-neutral-bg-color: var(--color-fondo); --fc-list-event-hover-bg-color: var(--color-fondo); --fc-today-bg-color: var(--color-fondo); --fc-button-bg-color: var(--color-primario); --fc-button-border-color: var(--color-primario); --fc-button-text-color: var(--color-texto-inverso); --fc-button-hover-bg-color: var(--color-secundario); --fc-button-hover-border-color: var(--color-secundario); --fc-button-active-bg-color: var(--color-secundario); --fc-button-active-border-color: var(--color-secundario); --fc-now-indicator-color: var(--color-error); }
+.agenda__calendario .fc-toolbar { display: flex; flex-wrap: wrap; gap: var(--espaciado-m); }
+.agenda__calendario .fc-toolbar-title { font-size: var(--tamano-xl); overflow-wrap: anywhere; }
+.agenda__calendario .fc-button { font: inherit; white-space: normal; padding: var(--espaciado-s); }
+.agenda__calendario .fc-event { cursor: pointer; }
+.agenda__calendario .fc-event:focus-visible { outline: var(--espaciado-xs) solid var(--color-info); outline-offset: var(--espaciado-xs); }
+.agenda__calendario .fc-daygrid-event { white-space: normal; }
+.agenda__calendario .fc-list-event-title { color: var(--color-texto); }
+.agenda__evento--vencido { outline: var(--espaciado-xs) solid var(--color-error); }
+.agenda__semana { display: grid; gap: var(--espaciado-m); }
+.agenda__evento { display: grid; gap: var(--espaciado-s); min-width: 0; overflow-wrap: anywhere; border-inline-start: var(--espaciado-s) solid var(--color-borde); }
+.agenda__evento--pendiente { border-color: var(--color-error); }
+.agenda__vencido { color: var(--color-error); font-weight: var(--peso-negrita); }
+.agenda__completado { color: var(--color-exito); font-weight: var(--peso-negrita); }
+.agenda__form-fechas { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, calc(var(--espaciado-2xl) * 4)), 1fr)); gap: var(--espaciado-m); }
+.agenda__recordatorios { border: 0; padding: 0; display: grid; gap: var(--espaciado-s); }

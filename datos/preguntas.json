@@ -1,0 +1,3510 @@
+[
+  {
+    "tipo": "opcion",
+    "enunciado": "A partir de la premisa de que un recurso renovable puede agotarse localmente si se sobreexplota, ¿cuál de las siguientes situaciones analiza correctamente el caso del agua según el contenido?",
+    "opciones": [
+      "El agua deja de ser un recurso renovable permanentemente al ser utilizada en actividades humanas.",
+      "El agua se renueva mediante el ciclo hidrológico, pero puede escasear o contaminarse si su uso supera su capacidad de recuperación.",
+      "El agua es un recurso no renovable porque sus reservas locales son siempre limitadas e inmutables.",
+      "El ciclo hidrológico garantiza que el agua nunca sufra problemas de escasez ni contaminación en ninguna localidad."
+    ],
+    "correcta": 1,
+    "retroalimentacion": "El texto señala explícitamente que el agua es renovable mediante el ciclo hidrológico, pero puede escasear o contaminarse localmente si no se considera su capacidad de regeneración.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000001",
+    "fecha": "2026-11-03T20:17:15.561Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué diferencia fundamental permite clasificar al petróleo como un recurso no renovable en contraste con los recursos renovables?",
+    "opciones": [
+      "El petróleo no proviene de la naturaleza, a diferencia de los recursos renovables.",
+      "El petróleo tarda millones de años en formarse y sus reservas son limitadas, impidiendo una regeneración a escala humana.",
+      "El petróleo no es utilizado por las personas para satisfacer necesidades cotidianas.",
+      "El petróleo se regenera rápidamente a través de ciclos naturales como el agua."
+    ],
+    "correcta": 1,
+    "retroalimentacion": "El petróleo se clasifica como no renovable porque requiere millones de años para formarse y sus reservas son limitadas, a diferencia de los recursos que pueden regenerarse de forma natural a corto plazo.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000002",
+    "fecha": "2026-11-03T20:17:23.293Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Un recurso clasificado como renovable está exento de cualquier posibilidad de agotamiento o degradación local, sin importar la velocidad con la que sea consumido.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "El resumen indica claramente que incluso un recurso renovable puede degradarse o agotarse localmente si se utiliza sin considerar su capacidad de regeneración.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000003",
+    "fecha": "2026-11-03T20:17:24.710Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Si analizamos la definición de recurso natural y su vinculación con los ecosistemas, ¿por qué un bosque se considera un elemento clave para satisfacer necesidades y sostener la vida?",
+    "opciones": [
+      "Porque es un ecosistema con abundancia de árboles y seres vivos que provee hábitat y recursos esenciales.",
+      "Porque es una sustancia inerte del subsuelo que se extrae exclusivamente para generar energía eólica.",
+      "Porque se origina de forma artificial mediante la intervención completa de las personas.",
+      "Porque representa un tipo de energía que proviene directamente del Sol."
+    ],
+    "correcta": 0,
+    "retroalimentacion": "El glosario define al bosque como un ecosistema con abundancia de árboles y otros seres vivos que provee hábitat y recursos, siendo fundamental para los ecosistemas y la vida humana.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000004",
+    "fecha": "2026-11-03T20:17:31.045Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "El elemento o bien de la naturaleza que las personas utilizan para satisfacer sus necesidades se define como ____.",
+    "opciones": [],
+    "correcta": "recurso",
+    "retroalimentacion": "El glosario establece que un 'recurso' es un elemento o bien de la naturaleza que las personas utilizan para satisfacer necesidades.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000005",
+    "fecha": "2026-11-03T20:17:32.322Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Según el glosario, ¿cómo se define un recurso natural?",
+    "opciones": [
+      "Un elemento creado completamente por las personas en laboratorios",
+      "Un elemento o bien de la naturaleza que las personas utilizan para satisfacer necesidades",
+      "Una sustancia artificial que no se encuentra en el suelo ni subsuelo",
+      "Un componente exclusivo de los ecosistemas sin relación con la vida humana"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "El glosario define recurso como el elemento o bien de la naturaleza que las personas utilizan para satisfacer necesidades.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000006",
+    "fecha": "2026-11-03T20:24:58.602Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "El petróleo se clasifica como un recurso no renovable porque tarda millones de años en formarse y sus reservas son limitadas.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "El texto explicativo señala al petróleo como ejemplo de recurso no renovable debido a su tiempo de formación y reservas limitadas.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000007",
+    "fecha": "2026-11-03T20:25:31.553Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "La capa superficial de la Tierra donde crecen las plantas y viven numerosos organismos se denomina ____.",
+    "opciones": [],
+    "correcta": "suelo",
+    "retroalimentacion": "El glosario define al suelo como la capa superficial de la Tierra donde crecen las plantas y viven numerosos organismos.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000008",
+    "fecha": "2026-11-03T20:25:38.993Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "De acuerdo con el contenido, ¿qué característica puede presentar un recurso renovable como el agua?",
+    "opciones": [
+      "Es imposible que se contamine en ninguna localidad",
+      "Se regenera únicamente de forma artificial por el ser humano",
+      "Puede escasear o contaminarse en una localidad si no se considera su regeneración",
+      "Tarda millones de años en volver a formarse en la naturaleza"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "El texto indica que el agua es renovable mediante el ciclo hidrológico, pero puede escasear o contaminarse a nivel local.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000009",
+    "fecha": "2026-11-03T20:25:42.158Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "El viento es considerado en el glosario como el movimiento del aire que puede aprovecharse para generar energía.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "El glosario define textualmente al viento como el movimiento del aire que puede aprovecharse para generar energía.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000010",
+    "fecha": "2026-11-03T20:25:46.968Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Cuál de estos elementos es un recurso natural antes de ser transformado por las personas?",
+    "opciones": [
+      "La madera de un árbol",
+      "Una mesa terminada",
+      "Una botella fabricada",
+      "Un cuaderno impreso"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La madera procede de la naturaleza; una mesa y un cuaderno son productos elaborados.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000011",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué característica identifica a un recurso renovable?",
+    "opciones": [
+      "Se forma únicamente en fábricas",
+      "Está disponible sin límites en cualquier lugar",
+      "No puede deteriorarse por contaminación",
+      "Puede reponerse naturalmente si se respetan sus tiempos y condiciones de recuperación"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La renovación depende de procesos naturales y no garantiza disponibilidad ilimitada.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000012",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Cuál es un ejemplo de combustible no renovable mencionado en el tema?",
+    "opciones": [
+      "La radiación solar",
+      "El agua de lluvia",
+      "El carbón",
+      "El viento"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "El carbón se forma durante tiempos geológicos y no se repone a escala humana.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000013",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué equipo aprovecha el movimiento del aire para producir energía?",
+    "opciones": [
+      "Un recipiente para reciclar vidrio",
+      "Un aerogenerador",
+      "Un panel que capta radiación solar",
+      "Una tubería de agua potable"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Los aerogeneradores aprovechan el viento.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000014",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Cómo se llama la pérdida y el transporte de suelo por agua o viento?",
+    "opciones": [
+      "Erosión",
+      "Condensación",
+      "Fotosíntesis",
+      "Reciclaje"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La erosión desprende y transporta suelo; conservar la vegetación ayuda a reducirla.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000015",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué territorio reúne aguas que drenan hacia una salida común?",
+    "opciones": [
+      "Un yacimiento mineral",
+      "Una fábrica",
+      "Un panel solar",
+      "Una cuenca"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La cuenca conecta territorios por el recorrido de sus aguas.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000016",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué material puede recuperarse mediante reciclaje sin formar un yacimiento nuevo?",
+    "opciones": [
+      "El viento",
+      "La radiación solar",
+      "El cobre",
+      "La lluvia"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Reciclar cobre permite reutilizar metal ya extraído, pero no crea nuevos yacimientos.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000017",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué necesidad humana depende directamente del suelo que sostiene los cultivos?",
+    "opciones": [
+      "La eliminación de la lluvia",
+      "La producción de alimentos",
+      "La formación instantánea de petróleo",
+      "La fabricación natural de mesas"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "El suelo sostiene las plantas de las que obtenemos numerosos alimentos.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000018",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Los bosques pueden proporcionar alimento y refugio a la fauna.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Los recursos naturales cumplen funciones ecológicas además de aportar materiales para las personas.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000019",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La clasificación de un recurso como renovable significa que nunca puede agotarse localmente.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Un recurso renovable puede escasear si se utiliza más rápido de lo que se recupera.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000020",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Los yacimientos minerales se reponen a la misma velocidad a la que se extraen para uso humano.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La formación de yacimientos requiere tiempos que no corresponden al ritmo de extracción humana.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000021",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La radiación del Sol es una fuente de energía renovable.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "La energía solar procede de un flujo natural que se considera renovable a escala humana.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000022",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "El suelo fértil se forma tan rápidamente que su erosión no requiere medidas de protección.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "El suelo fértil se forma lentamente y su pérdida puede superar ampliamente su recuperación.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000023",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Evitar vertidos contaminantes contribuye a proteger los recursos hídricos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "La conservación considera la calidad del agua, además de su cantidad.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000024",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "El recurso líquido que circula mediante el ciclo hidrológico es el ____.",
+    "opciones": [],
+    "correcta": "agua",
+    "retroalimentacion": "El agua circula por procesos como evaporación, condensación, precipitación e infiltración.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000025",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «petróleo», «viento» o «agua»: la fuente fósil que tarda millones de años en formarse y se usa para obtener derivados combustibles es el ____.",
+    "opciones": [],
+    "correcta": "petróleo",
+    "retroalimentacion": "El petróleo es un recurso no renovable por su tiempo de formación y sus reservas limitadas.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000026",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "El movimiento del aire que aprovechan los aerogeneradores se llama ____.",
+    "opciones": [],
+    "correcta": "viento",
+    "retroalimentacion": "El viento es una fuente natural de energía.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000027",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "La entrada del agua desde la superficie hacia el terreno se denomina ____.",
+    "opciones": [],
+    "correcta": "infiltración",
+    "retroalimentacion": "La infiltración forma parte del ciclo del agua y se relaciona con las condiciones del suelo.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000028",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "La capa superficial donde crecen cultivos y viven numerosos organismos es el ____.",
+    "opciones": [],
+    "correcta": "suelo",
+    "retroalimentacion": "El suelo es fundamental para la vida y debe protegerse de la degradación.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000029",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «reciclaje» o «extracción»: recuperar materiales de productos desechados se relaciona con el ____.",
+    "opciones": [],
+    "correcta": "reciclaje",
+    "retroalimentacion": "El reciclaje recupera materiales, aunque no convierte los yacimientos en renovables.",
+    "temaId": "tem_000001",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000030",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué un río puede presentar escasez aunque el agua sea renovable?",
+    "opciones": [
+      "Porque el ciclo hidrológico elimina toda el agua del planeta",
+      "Porque lo renovable se fabrica únicamente en industrias",
+      "Porque cualquier uso convierte el agua en petróleo",
+      "Porque la extracción o el deterioro local pueden superar la recuperación del agua disponible"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La renovación global del agua no asegura la cantidad y calidad de una fuente local.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000031",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué diferencia explica que una mesa no se clasifique del mismo modo que la madera de un árbol?",
+    "opciones": [
+      "La mesa se repone mediante el ciclo del agua",
+      "La madera es un combustible fósil",
+      "La mesa es un producto elaborado a partir de una materia prima natural",
+      "La madera se fabrica por completo en un taller"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Se debe distinguir el producto transformado del recurso que le da origen.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000032",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué reciclar cobre no vuelve renovables los yacimientos de este metal?",
+    "opciones": [
+      "Porque reciclar aumenta automáticamente las reservas del subsuelo",
+      "Porque reutilizar material extraído no crea nuevos depósitos geológicos",
+      "Porque el cobre recuperado deja de ser un material",
+      "Porque todo metal se transforma naturalmente en madera"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "La recuperación de materiales y la formación de yacimientos son procesos distintos.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000033",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué significa usar un bosque respetando su recuperación?",
+    "opciones": [
+      "Ajustar el aprovechamiento a su crecimiento y a las condiciones que permiten regenerarlo",
+      "Extraer todos sus árboles porque volverán inmediatamente",
+      "Tomar como único criterio la demanda de madera",
+      "Eliminar la fauna para acelerar cualquier extracción"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Un recurso renovable necesita tiempo y condiciones para mantener sus funciones.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000034",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué conservar vegetación puede beneficiar simultáneamente al agua y al suelo?",
+    "opciones": [
+      "Porque convierte el suelo en un recurso de reposición instantánea",
+      "Porque impide cualquier cambio en la lluvia",
+      "Porque elimina la necesidad de cuidar la calidad del agua",
+      "Porque influye en la infiltración y ayuda a reducir la erosión"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Los componentes naturales están conectados y una acción puede proteger varios a la vez.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000035",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué expresa mejor el concepto de uso sostenible?",
+    "opciones": [
+      "Mantener el consumo sin observar sus consecuencias",
+      "Usar únicamente materiales nuevos aunque puedan reutilizarse",
+      "Satisfacer necesidades cuidando los procesos naturales y las posibilidades de futuras generaciones",
+      "Aprovechar primero todas las reservas y evaluar después"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La sostenibilidad considera tanto las necesidades actuales como la continuidad de los recursos.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000036",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué debe evitarse llamar ilimitada a la disponibilidad de energía eólica en un lugar?",
+    "opciones": [
+      "Porque un aerogenerador produce por sí mismo todo el viento",
+      "Porque la intensidad y disponibilidad del viento cambian según el lugar y el momento",
+      "Porque el viento es un producto del petróleo",
+      "Porque solo los combustibles fósiles generan movimiento del aire"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Una fuente renovable no tiene disponibilidad constante en todos los sitios.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000037",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué relación hay entre la clasificación no renovable del suelo a escala humana y su cuidado?",
+    "opciones": [
+      "Su formación lenta exige prevenir pérdidas que podrían tardar mucho en recuperarse",
+      "Su formación lenta permite ignorar toda erosión",
+      "Su clasificación depende de que no existan organismos en él",
+      "Su protección hace que cualquier pérdida se reponga al instante"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La escala de tiempo de recuperación es un criterio importante para decidir cómo proteger un recurso.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000038",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué la calidad del agua importa además del volumen disponible?",
+    "opciones": [
+      "Porque aumentar el volumen elimina siempre cualquier contaminante",
+      "Porque la calidad solo influye en el viento",
+      "Porque un río grande no puede deteriorarse",
+      "Porque el agua contaminada puede perder utilidad para seres vivos y actividades humanas"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La cantidad no reemplaza el cuidado de las condiciones que permiten utilizar el agua.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000039",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Cuál explicación conecta la conservación con la prevención?",
+    "opciones": [
+      "Prevenir exige esperar a que un recurso desaparezca",
+      "Conservar implica consumir más para acelerar su renovación",
+      "Evitar la contaminación ayuda a mantener recursos antes de que deban recuperarse",
+      "Conservar consiste únicamente en observar daños ya ocurridos"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La conservación incluye acciones anticipadas, como evitar vertidos y reducir pérdidas.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000040",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Dos recursos que provienen de la naturaleza pueden tener tiempos de recuperación muy diferentes.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "El origen natural no determina por sí solo si un recurso es renovable o no renovable.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000041",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La presencia de agua en el planeta garantiza que todas las comunidades tengan agua disponible de buena calidad.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La distribución, extracción y contaminación pueden limitar el abastecimiento local.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000042",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Si aumenta la captura de peces sin considerar su reproducción, una población renovable puede disminuir.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "La posibilidad de renovación depende de que la extracción no supere la recuperación.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000043",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Un recurso solo tiene importancia si puede venderse como materia prima.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "También sostiene procesos ecológicos y necesidades esenciales que no se reducen a una venta.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000044",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Llamar renovable a una fuente de energía demuestra que instalar equipos carece de impactos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Los equipos requieren materiales y una ubicación que considere efectos sobre el entorno.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000045",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Reducir residuos y reutilizar objetos son acciones coherentes con el uso sostenible.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Ambas pueden disminuir la demanda de materiales y la generación de desechos.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000046",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «agotarse» o «aumentar»: si el uso de un recurso renovable supera su recuperación, su reserva puede ____ localmente.",
+    "opciones": [],
+    "correcta": "agotarse",
+    "retroalimentacion": "Renovable no equivale a ilimitado: las reservas locales pueden agotarse.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000047",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «precio» o «recuperación»: para decidir si una reserva se repone durante una vida humana debe considerarse su tiempo de ____.",
+    "opciones": [],
+    "correcta": "recuperación",
+    "retroalimentacion": "La recuperación permite comparar la velocidad de reposición con el ritmo de aprovechamiento.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000048",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «cantidad» o «calidad»: evitar vertidos protege la ____ del agua, aunque no aumente su volumen.",
+    "opciones": [],
+    "correcta": "calidad",
+    "retroalimentacion": "La conservación incluye mantener condiciones que permitan los usos del agua.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000049",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Al comparar un árbol y una mesa, la madera del árbol representa una materia ____ natural.",
+    "opciones": [],
+    "correcta": "prima",
+    "retroalimentacion": "Una materia prima es el material de origen que puede transformarse en un producto.",
+    "temaId": "tem_000001",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000050",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una familia descubre una fuga continua en su vivienda. ¿Qué acción aplica el cuidado del recurso hídrico?",
+    "opciones": [
+      "Registrar solo el color de las paredes",
+      "Dejarla porque el agua participa en un ciclo",
+      "Repararla y comparar el consumo antes y después",
+      "Abrir otra llave para equilibrar el flujo"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Reparar la fuga reduce pérdidas y la comparación de consumo permite evaluar la acción.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000051",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "En una pesca comunitaria se capturan más peces de los que logran reproducirse. ¿Qué medida aplica el criterio de renovación?",
+    "opciones": [
+      "Ignorar los cambios de abundancia",
+      "Ajustar la captura a información sobre recuperación de la población",
+      "Aumentar la extracción mientras exista demanda",
+      "Declarar ilimitados a todos los peces"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "El aprovechamiento debe respetar el ritmo y las condiciones de recuperación.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000052",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una escuela debe clasificar materiales de su aula. ¿Qué pareja está correctamente diferenciada?",
+    "opciones": [
+      "Árbol: origen del recurso; mesa: producto elaborado",
+      "Mesa: recurso sin transformar; árbol: producto industrial",
+      "Árbol: combustible fósil; mesa: fuente eólica",
+      "Mesa: yacimiento natural; árbol: metal reciclado"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La clasificación parte del origen y de la transformación del material.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000053",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una ladera pierde suelo con cada lluvia. ¿Qué medida del tema se puede aplicar?",
+    "opciones": [
+      "Dejar toda la superficie descubierta",
+      "Aumentar el arrastre de tierra hacia el río",
+      "Considerar que el suelo se repone de inmediato",
+      "Proteger o recuperar cobertura vegetal adecuada"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La cobertura vegetal ayuda a reducir la erosión y protege un recurso de formación lenta.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000054",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una comunidad estudia instalar aerogeneradores. ¿Qué debe observar para aplicar el criterio de disponibilidad?",
+    "opciones": [
+      "Solo la cantidad de petróleo del planeta",
+      "El número de mesas de una oficina",
+      "Cómo varía el viento en el sitio y en distintos momentos",
+      "Únicamente el color del equipo"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La energía eólica depende del viento local; su disponibilidad debe evaluarse.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000055",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un taller recupera cobre de objetos usados. ¿Cómo se clasifica correctamente esta acción?",
+    "opciones": [
+      "Producción de radiación solar",
+      "Reciclaje de material que ya fue extraído",
+      "Formación instantánea de un yacimiento",
+      "Renovación geológica del subsuelo"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "La recuperación de cobre permite reutilizar material y no crear nuevas reservas naturales.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000056",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un depósito recibe 70 unidades de agua y entrega 100 en el mismo período, sin otros aportes. ¿Qué cambio corresponde?",
+    "opciones": [
+      "La reserva disminuye 30 unidades",
+      "La reserva aumenta 30 unidades",
+      "La reserva queda igual",
+      "La reserva aumenta 170 unidades"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Al salir 30 unidades más de las que ingresan, el depósito pierde esa cantidad.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000057",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una institución quiere reducir residuos de materiales. ¿Qué medida aplica primero la idea de evitar consumo innecesario?",
+    "opciones": [
+      "Sustituir diariamente todo el material utilizable",
+      "Aumentar compras sin revisar existencias",
+      "Mezclar desechos para impedir su recuperación",
+      "Reutilizar objetos que aún cumplen su función"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Reutilizar permite prolongar la vida útil de objetos y reducir nuevas demandas.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000058",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una comunidad quiere conservar el río usado para riego. ¿Cuál acción aborda su calidad?",
+    "opciones": [
+      "Aumentar basura en las riberas",
+      "Suponer que la corriente elimina todo contaminante",
+      "Evitar descargas de residuos hacia el agua",
+      "Medir solo la altura de un poste cercano"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Evitar vertidos protege las condiciones del agua para organismos y usos humanos.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000059",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un grupo estudia recursos de su localidad. ¿Qué ficha aplica mejor los criterios del tema?",
+    "opciones": [
+      "Popularidad de una marca como medida de renovación",
+      "Origen, tiempo de recuperación, uso e impactos",
+      "Precio del producto sin identificar su material",
+      "Color del envase como único criterio"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Comprender un recurso requiere conocer su origen y límites, además de sus usos.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000060",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "En una campaña se reparan fugas durante una semana. ¿Qué registro sirve para revisar su aplicación?",
+    "opciones": [
+      "Número de fugas reparadas y mediciones comparables de consumo",
+      "Cantidad de afiches sin relación con reparaciones",
+      "Color de las herramientas solamente",
+      "Opinión de una persona sin registrar ninguna acción"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Los indicadores deben corresponder a la acción y al recurso que se desea proteger.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000061",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Antes de extraer madera de un bosque, ¿qué información debe aplicar una comunidad al decidir?",
+    "opciones": [
+      "Solo la velocidad de transporte de la madera",
+      "Únicamente el tamaño del vehículo de carga",
+      "La suposición de que todos los árboles reaparecen al día siguiente",
+      "Su crecimiento y las condiciones necesarias para regenerarse"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Los tiempos de regeneración y las funciones del bosque deben orientar el aprovechamiento.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000062",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Si una escuela reduce consumo innecesario y repara fugas, está aplicando medidas de uso responsable del agua.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Las acciones disminuyen demandas evitables y pérdidas del recurso.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000063",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "En el caso de 70 unidades que ingresan y 100 que salen, sería correcto afirmar que la reserva aumenta por ser agua renovable.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La condición renovable no cambia el balance: salen más unidades de las que entran.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000064",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Para aprovechar energía solar en un sitio conviene considerar su disponibilidad y los impactos de instalar los equipos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Una decisión responsable considera el recurso y las condiciones de su aprovechamiento.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000065",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Arrojar residuos al río es una medida válida de conservación si después se reduce el consumo de agua.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Ahorrar agua no compensa automáticamente la contaminación de su fuente.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000066",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Caso: un depósito recibe 50 unidades y entrega 80, sin otros aportes. La reserva disminuye ____ unidades. Escribe solo el número.",
+    "opciones": [],
+    "correcta": "30",
+    "retroalimentacion": "La diferencia entre salida y entrada es 80 menos 50: se pierden 30 unidades.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000067",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Para aprovechar el movimiento del aire, una comunidad estudia energía ____.",
+    "opciones": [],
+    "correcta": "eólica",
+    "retroalimentacion": "La energía eólica aprovecha el viento mediante dispositivos como aerogeneradores.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000068",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Si un grupo protege una ladera para disminuir el arrastre de tierra por lluvia, busca reducir la ____.",
+    "opciones": [],
+    "correcta": "erosión",
+    "retroalimentacion": "La erosión implica pérdida y transporte de suelo.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000069",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Al seguir el recorrido de aguas de varios terrenos hacia una misma salida, el grupo está delimitando una ____.",
+    "opciones": [],
+    "correcta": "cuenca",
+    "retroalimentacion": "Una cuenca vincula territorios cuyas aguas drenan hacia una salida común.",
+    "temaId": "tem_000001",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000070",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un río mantiene su volumen, pero recibe residuos y deja de servir para algunos usos. ¿Qué aspecto se ha deteriorado principalmente?",
+    "opciones": [
+      "La existencia global del ciclo del agua",
+      "La calidad del recurso disponible",
+      "Su origen natural ha cambiado a industrial",
+      "Su clasificación ha pasado necesariamente a mineral"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "El volumen puede mantenerse mientras empeoran las condiciones de calidad del agua.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000071",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un bosque crece lentamente y se extraen árboles cada vez más rápido. ¿Qué relación explica el riesgo?",
+    "opciones": [
+      "El ritmo de aprovechamiento puede superar el de regeneración",
+      "La extracción convierte a los árboles en combustibles fósiles",
+      "El crecimiento lento demuestra reservas infinitas",
+      "La demanda de madera asegura la regeneración"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Comparar ritmos de extracción y recuperación permite identificar un uso que no se sostiene.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000072",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Dos comunidades usan igual volumen de agua; una repara fugas y la otra mantiene pérdidas. ¿Qué dato ayuda a analizar su eficiencia?",
+    "opciones": [
+      "Solo el nombre de cada comunidad",
+      "Únicamente el color de sus tuberías",
+      "La cantidad de mesas del municipio",
+      "Qué parte del volumen llega al uso previsto y qué parte se pierde"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Un mismo volumen extraído puede aprovecharse de forma diferente si cambian las pérdidas.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000073",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Tras retirar vegetación de una ladera, aumentan tierra arrastrada y turbidez del río. ¿Qué secuencia relaciona los hechos?",
+    "opciones": [
+      "Más reciclaje, desaparición de la cuenca y más Sol",
+      "Menor cobertura, suelo ilimitado y agua sin cambios posibles",
+      "Menor cobertura, mayor erosión y mayor transporte de suelo al agua",
+      "Más cobertura, creación inmediata de petróleo y menos lluvia"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La pérdida de cobertura puede facilitar erosión y afectar las condiciones del agua.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000074",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una propuesta afirma: «Reciclar cobre demuestra que los minerales son renovables». ¿Qué confusión contiene?",
+    "opciones": [
+      "Demuestra que el cobre solo existe en organismos vivos",
+      "Equipara recuperar metal utilizado con formar yacimientos geológicos",
+      "Distingue correctamente producto elaborado y materia prima",
+      "Reconoce que el reciclaje siempre necesita una cuenca"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Reciclar un material no cambia el tiempo de formación de su reserva natural.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000075",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un informe compara un panel solar con el petróleo como si ambos fueran materiales que se extraen del mismo depósito. ¿Qué categorías confunde?",
+    "opciones": [
+      "Un equipo de aprovechamiento con un recurso natural",
+      "Dos tipos idénticos de yacimiento",
+      "Dos procesos iguales del ciclo hidrológico",
+      "Dos poblaciones de peces"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "El panel es un dispositivo; el petróleo es un recurso energético del subsuelo.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000076",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "En un depósito, la entrada pasa de 70 a 90 unidades y la salida se mantiene en 100. ¿Qué conclusión describe ambos balances?",
+    "opciones": [
+      "La reserva aumenta en ambos casos",
+      "La pérdida sigue siendo 30 unidades en ambos casos",
+      "La salida deja de importar cuando aumenta la entrada",
+      "La reserva sigue disminuyendo, pero la pérdida por período baja de 30 a 10 unidades"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Ambas entradas son menores que la salida; comparar las diferencias muestra una reducción del déficit.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000077",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Dos lugares tienen equipos eólicos iguales, pero distinta intensidad de viento. ¿Qué variable del recurso explica diferencias de aprovechamiento?",
+    "opciones": [
+      "El origen del suelo como producto artificial",
+      "La capacidad del equipo para crear viento natural",
+      "La disponibilidad local del flujo de aire",
+      "La formación de nuevos yacimientos de cobre"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Equipos similares no garantizan condiciones naturales idénticas.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000078",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una propuesta protege árboles de la ribera y otra solo cambia un cartel. ¿Qué relación permite diferenciar sus efectos sobre el suelo?",
+    "opciones": [
+      "La vegetación no participa en procesos de una cuenca",
+      "La primera actúa sobre la cobertura que influye en erosión e infiltración",
+      "Ambas producen automáticamente el mismo cambio medible",
+      "El cartel modifica por sí solo la formación geológica"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Las acciones deben analizarse por el proceso sobre el que actúan, no solo por su visibilidad.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000079",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una población de peces disminuye mientras aumentan capturas y contaminación. ¿Qué análisis es más adecuado?",
+    "opciones": [
+      "Considerar ambos factores y reunir datos para distinguir sus efectos",
+      "Atribuirlo solo al carácter no renovable de todos los peces",
+      "Concluir que aumentar capturas siempre mejora la población",
+      "Ignorar la contaminación porque el agua participa en un ciclo"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La extracción y el deterioro de condiciones pueden combinarse; se necesita evidencia para separarlos.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000080",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un texto afirma que el suelo es de reposición inmediata porque contiene seres vivos. ¿Qué dato del tema contradice ese razonamiento?",
+    "opciones": [
+      "La presencia de árboles impide cualquier erosión para siempre",
+      "Todos los materiales naturales son productos industriales",
+      "El suelo no tiene relación con el agua",
+      "La formación de suelo fértil es muy lenta a escala humana"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La presencia de organismos no elimina la lentitud de los procesos de formación del suelo.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000081",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una comunidad mide menos agua extraída, pero mantiene vertidos contaminantes. ¿Qué aspecto quedó fuera de su análisis de conservación?",
+    "opciones": [
+      "La clasificación de las mesas como productos",
+      "La existencia del viento como fuente de energía",
+      "La calidad del agua y los efectos de la contaminación",
+      "El color del cartel de la campaña"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "El uso responsable considera cantidad y calidad, no un único indicador.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000082",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una escuela publica que ahorró agua tras una campaña, pero compara períodos de distinta duración. ¿Qué debilidad tiene la comparación?",
+    "opciones": [
+      "Toda diferencia de duración aumenta por igual el consumo",
+      "Las mediciones no representan intervalos equivalentes",
+      "El agua dejó de tener origen natural",
+      "Una campaña no puede nunca influir en hábitos"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Para interpretar cambios se necesitan mediciones comparables.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000083",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un plan calcula únicamente cuánta madera se puede vender. ¿Qué relaciones importantes omite?",
+    "opciones": [
+      "La regeneración del bosque y sus vínculos con hábitat, suelo y agua",
+      "Solo la forma de escribir la palabra madera",
+      "Únicamente el número de hojas del informe",
+      "La fabricación natural de los muebles ya terminados"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "El valor de un recurso incluye procesos ecológicos y posibilidades de recuperación.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000084",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Si la extracción de agua baja, pero sigue por encima de la entrada y no hay otros aportes, la reserva puede continuar disminuyendo.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Reducir una salida no basta para eliminar el déficit si todavía supera la entrada.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000085",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Que dos recursos sean naturales demuestra que ambos se recuperan en el mismo tiempo.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La clasificación exige distinguir velocidades de recuperación, no solo el origen.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000086",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Para analizar un daño en una cuenca conviene relacionar usos del suelo, vegetación y recorrido del agua.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Las relaciones entre esos componentes pueden explicar efectos que una observación aislada omite.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000087",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Una mayor cantidad de objetos reciclados demuestra por sí sola que desapareció toda necesidad de extraer minerales.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "El reciclaje recupera parte de los materiales y no demuestra que se haya eliminado toda extracción.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000088",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Un depósito recibe 120 unidades y entrega 150; luego recibe 140 y sigue entregando 150. La pérdida del segundo período es ____ unidades. Escribe solo el número.",
+    "opciones": [],
+    "correcta": "10",
+    "retroalimentacion": "En el segundo período la salida supera a la entrada en 150 menos 140: 10 unidades.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000089",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Si un informe mide volumen, pero omite contaminantes del agua, falta analizar su ____.",
+    "opciones": [],
+    "correcta": "calidad",
+    "retroalimentacion": "La calidad es una dimensión distinta de la cantidad disponible.",
+    "temaId": "tem_000001",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000090",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Se debe elegir entre extraer madera sin límite o ajustar la extracción al crecimiento y proteger hábitats. ¿Qué decisión está mejor justificada por la sostenibilidad?",
+    "opciones": [
+      "Ajustar el aprovechamiento a la regeneración y a las funciones del bosque",
+      "Ajustar la extracción solo a la demanda del mes sin estimar crecimiento",
+      "Plantar algunos árboles y mantener cualquier ritmo de extracción",
+      "Proteger únicamente la fauna sin revisar la cantidad de madera extraída"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "El criterio de sostenibilidad combina necesidades humanas, recuperación y continuidad de funciones ecológicas.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000091",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una propuesta pretende aumentar el consumo de agua porque el ciclo hidrológico siempre continúa. ¿Qué valoración corresponde?",
+    "opciones": [
+      "Es suficiente fijar la extracción según la capacidad de las bombas",
+      "Es suficiente revisar el tamaño del depósito sin observar aportes",
+      "Es adecuada si satisface la demanda actual aunque la reserva disminuya",
+      "Es insuficiente: debe justificar disponibilidad local, calidad y balance entre aportes y extracción"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La existencia del ciclo no demuestra que una fuente local soporte cualquier extracción.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000092",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Dos planes reducen residuos: uno reutiliza objetos útiles y otro desecha los mismos objetos para comprar otros. Con el criterio de reducir consumo innecesario, ¿cuál conviene?",
+    "opciones": [
+      "Comprar productos nuevos cada semana y recuperar luego sus envolturas",
+      "Reciclar de inmediato los objetos que todavía pueden utilizarse",
+      "Reutilizar los objetos que aún cumplen su función",
+      "Desechar los objetos útiles para sustituirlos por otros reciclables"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Reutilizar prolonga la vida útil y puede reducir nuevas demandas de recursos.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000093",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una escuela quiere demostrar ahorro de agua. ¿Qué procedimiento ofrece evidencia más sólida?",
+    "opciones": [
+      "Medir únicamente cuántos mensajes de ahorro fueron publicados",
+      "Comparar consumo en períodos equivalentes y registrar reparaciones y cambios de uso",
+      "Comparar consumo de un día con el de un mes sin ajustar tiempos",
+      "Preguntar al final si las personas sienten que gastaron menos"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "La evaluación necesita indicadores relacionados con el recurso y mediciones comparables.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000094",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Se planea instalar energía eólica. ¿Qué propuesta integra mejor disponibilidad e impactos?",
+    "opciones": [
+      "Estudiar viento local y evaluar ubicación y materiales de los equipos",
+      "Elegir el equipo más barato sin estudiar el viento del sitio",
+      "Medir el viento una sola vez y asumir que será constante",
+      "Usar datos de otro lugar y omitir los impactos de la ubicación elegida"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La elección debe considerar condiciones naturales y consecuencias de la instalación.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000095",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una campaña afirma que basta con reciclar para que los minerales nunca se agoten. ¿Cómo debería evaluarse?",
+    "opciones": [
+      "Es suficiente para declarar renovables a las reservas del subsuelo",
+      "Justifica aumentar extracción sin estudiar nuevas demandas de material",
+      "Permite afirmar que todos los impactos mineros ya quedaron compensados",
+      "Como una afirmación excesiva: reciclar ayuda, pero no forma nuevos yacimientos ni evita todos los impactos"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "El reciclaje es útil, pero su alcance no equivale a una renovación completa de reservas naturales.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000096",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un presupuesto permite reparar fugas o pintar tuberías en buen estado, y el objetivo es reducir pérdidas de agua ya detectadas. ¿Qué acción está mejor alineada?",
+    "opciones": [
+      "Pintar las tuberías y asumir que con ello disminuye la pérdida",
+      "Registrar las fugas durante meses sin actuar sobre las que ya pueden repararse",
+      "Reparar las fugas y comprobar si disminuyen las pérdidas",
+      "Financiar solo una campaña general y posponer todas las reparaciones detectadas"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La prioridad se justifica por su relación directa con el problema y por la posibilidad de evaluar resultados.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000097",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Para decidir un uso responsable de un depósito que recibe menos agua de la que se extrae, ¿qué información adicional resulta más pertinente?",
+    "opciones": [
+      "Estimar aportes y asumir que toda extracción futura será constante sin comprobarla",
+      "Variación de aportes y extracciones, reserva disponible y necesidades de quienes dependen del agua",
+      "Revisar únicamente la reserva de un día sin estimar entradas ni salidas",
+      "Atender solo la demanda solicitada sin observar disponibilidad"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Una decisión debe apoyarse en el balance del recurso y en las necesidades que busca atender.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000098",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un terreno pierde suelo y se propone dejarlo descubierto para facilitar su observación. ¿Qué alternativa merece mejor valoración si se busca conservarlo?",
+    "opciones": [
+      "Proteger cobertura adecuada y registrar cambios de erosión",
+      "Colocar avisos de cuidado manteniendo descubierta toda la superficie",
+      "Reponer tierra periódicamente sin actuar sobre las causas del arrastre",
+      "Medir la pérdida solo después de dar por exitoso el proyecto"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La alternativa debe reducir el proceso de pérdida y permitir revisar su resultado.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000099",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una autoridad decide usar únicamente el volumen extraído para evaluar el cuidado de un río. ¿Qué recomendación mejora ese criterio?",
+    "opciones": [
+      "Conservar el volumen como único criterio aunque existan vertidos",
+      "Sustituir las mediciones por la opinión de una sola persona",
+      "Valorar únicamente el aspecto del agua en una fotografía",
+      "Incluir calidad del agua, pérdidas y efectos sobre sus usos y organismos"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Una evaluación más completa considera dimensiones conectadas del recurso.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000100",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un plan beneficia hoy a la comunidad, pero impide recuperar el recurso para el futuro. ¿Cómo se valora según el tema?",
+    "opciones": [
+      "Cumple si el recurso se etiqueta renovable aunque no se recupere",
+      "Cumple porque cualquier beneficio inmediato compensa una pérdida futura",
+      "No cumple suficientemente el criterio de sostenibilidad",
+      "Cumple el criterio porque considera solo a quienes usan el recurso hoy"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Las posibilidades de futuras generaciones y la continuidad de procesos forman parte del criterio.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000101",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un informe atribuye una mejora del agua a una campaña sin mediciones anteriores. ¿Qué revisión sería más responsable?",
+    "opciones": [
+      "Usar el número de asistentes como prueba suficiente de la mejora del agua",
+      "Reconocer la limitación y reunir datos comparables antes de sostener una conclusión firme",
+      "Atribuir toda mejora a la campaña solo porque ocurrió antes de la observación",
+      "Eliminar del informe cualquier dato que contradiga el resultado esperado"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Evaluar exige distinguir lo que se observó de lo que todavía no puede demostrarse.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000102",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Se comparan dos planes forestales: uno mide solo ingresos y otro incluye recuperación, hábitat y protección del suelo. ¿Cuál usa criterios más completos?",
+    "opciones": [
+      "El que considera resultados económicos y funciones ecológicas junto con la regeneración",
+      "El que usa los ingresos como medida suficiente de todo el valor del bosque",
+      "El que cuenta árboles extraídos sin compararlos con crecimiento ni hábitat",
+      "El que mide únicamente la cantidad de compromisos escritos por participantes"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "El aprovechamiento responsable debe integrar distintas funciones y límites del recurso.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000103",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un equipo propone «cuidar todos los recursos» sin acciones ni indicadores. ¿Qué cambio hace evaluable la propuesta?",
+    "opciones": [
+      "Añadir una acción sin plazo y valorar solo la intención de participar",
+      "Establecer un plazo sin precisar qué se hará ni qué se medirá",
+      "Contar reuniones como prueba suficiente del resultado sobre el recurso",
+      "Definir una acción concreta, un plazo y un registro relacionado con el recurso"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Una propuesta viable permite comprobar qué se hará y cómo se revisará su aplicación.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000104",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una familia compara comprar más objetos nuevos o reparar los que aún pueden servir. Según reducir consumo innecesario, ¿qué decisión está mejor sustentada?",
+    "opciones": [
+      "Comprar más objetos por estar en oferta aunque no hagan falta",
+      "Desechar los objetos al primer desperfecto sin evaluar reparación",
+      "Reparar cuando sea viable y prolongar el uso de los objetos",
+      "Sustituir todos los objetos por productos reciclables sin revisar su estado"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Prolongar el uso puede disminuir nuevas demandas de materiales y generación de residuos.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000105",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un grupo afirma que un río está bien conservado porque se ve limpio en una fotografía. ¿Qué juicio es más prudente?",
+    "opciones": [
+      "El aspecto del agua basta para valorar todos sus usos y organismos",
+      "La fotografía es insuficiente para valorar por sí sola calidad, cantidad y efectos de sus usos",
+      "La imagen permite asegurar la calidad sin otras observaciones",
+      "La imagen demuestra por sí sola ausencia de extracción excesiva"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "La evaluación de conservación requiere evidencias pertinentes y reconocer los límites de cada observación.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000106",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Una decisión de uso sostenible puede exigir reducir una extracción actual para mantener posibilidades futuras de aprovechamiento.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "El criterio incluye la continuidad del recurso y no solo el beneficio inmediato.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000107",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Al valorar una acción para conservar suelo, basta con contar participantes, aunque no se observe ninguna relación con la erosión.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La participación describe una actividad, pero no sustituye indicadores relacionados con el problema.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000108",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Es razonable revisar una propuesta de ahorro si omite las fugas que ya se identificaron en la comunidad.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Una propuesta debe considerar las causas conocidas y justificar sus prioridades.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000109",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Toda propuesta que usa la palabra renovable puede aprobarse sin estudiar disponibilidad local ni impactos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La etiqueta renovable no sustituye la evaluación de condiciones, límites y consecuencias.",
+    "temaId": "tem_000001",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000110",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué conjunto reúne los tres niveles de biodiversidad estudiados?",
+    "opciones": [
+      "Aire, temperatura y maquinaria",
+      "Cantidad de individuos, basura y carreteras",
+      "Genes, especies y ecosistemas",
+      "Solo animales grandes y plantas de cultivo"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La biodiversidad comprende diferencias genéticas, variedad de especies y variedad de ecosistemas.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000111",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué ejemplo representa diversidad genética dentro de una misma especie?",
+    "opciones": [
+      "Un río y una carretera",
+      "Variedades de maíz con diferencias heredables",
+      "Un manglar y un páramo",
+      "Un ave y un hongo"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Las variedades de un cultivo permiten reconocer diferencias heredables dentro de una especie.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000112",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Cuál de estos conjuntos ilustra diversidad de especies?",
+    "opciones": [
+      "Aves, árboles y hongos de un lugar",
+      "Muchos individuos de una sola especie",
+      "Varias alturas del mismo poste",
+      "Distintos colores de un recipiente"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La diversidad de especies incluye distintos tipos de organismos presentes en un espacio.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000113",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Cómo se llama el espacio con las condiciones donde vive un organismo?",
+    "opciones": [
+      "Panel solar",
+      "Yacimiento mineral",
+      "Producto elaborado",
+      "Hábitat"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "El hábitat reúne el espacio y las condiciones para la vida de un organismo.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000114",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué proceso favorecen las abejas al transportar polen?",
+    "opciones": [
+      "La fragmentación de hábitats",
+      "La extracción de minerales",
+      "La polinización",
+      "La formación de petróleo"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "El transporte de polen favorece la reproducción de numerosas plantas.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000115",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué amenaza divide un hábitat en partes y puede aislar poblaciones?",
+    "opciones": [
+      "El mantenimiento de bancos de semillas",
+      "La fragmentación",
+      "La conservación in situ",
+      "La descomposición de restos"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "La fragmentación divide espacios que antes podían estar conectados.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000116",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué modalidad protege organismos en sus ambientes naturales?",
+    "opciones": [
+      "Conservación in situ",
+      "Conservación ex situ en un banco de semillas",
+      "Sustitución de hábitats por residuos",
+      "Extracción por encima de la recuperación"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La conservación in situ protege organismos y relaciones dentro de sus ambientes.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000117",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Cuál es un ejemplo de conservación ex situ mencionado en el contenido?",
+    "opciones": [
+      "La contaminación de un río",
+      "La eliminación de un bosque",
+      "La liberación de mascotas en la naturaleza",
+      "Un banco de semillas"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Los bancos de semillas mantienen componentes de la diversidad fuera de su ambiente natural.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000118",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La biodiversidad incluye hongos y microorganismos, además de plantas y animales.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "La variedad de vida abarca grupos que no siempre se observan a simple vista.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000119",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Observar muchos individuos de una sola especie demuestra por sí solo gran diversidad de especies.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La cantidad de individuos de una especie no equivale al número de especies diferentes.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000120",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Los ecosistemas pueden aportar valores culturales, científicos y recreativos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Los beneficios no se limitan a bienes materiales como alimentos o fibras.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000121",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Toda especie que se introduce fuera de su distribución natural debe llamarse invasora, aunque no cause impactos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Para identificarla como invasora se considera su establecimiento y los impactos que causa.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000122",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Una especie endémica tiene una distribución natural restringida a un área determinada.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Endemismo describe la distribución natural y no determina por sí solo una amenaza.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000123",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Plantar árboles reemplaza automáticamente todas las relaciones de un bosque.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Recuperar un ambiente requiere considerar condiciones, organismos y funciones, no solo árboles.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000124",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "La variedad de vida en genes, especies y ecosistemas se denomina ____.",
+    "opciones": [],
+    "correcta": "biodiversidad",
+    "retroalimentacion": "El concepto reúne distintos niveles y las relaciones ecológicas que los conectan.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000125",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Las diferencias heredables dentro de una especie corresponden a la diversidad ____.",
+    "opciones": [],
+    "correcta": "genética",
+    "retroalimentacion": "La diversidad genética comprende variaciones heredables entre individuos de una especie.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000126",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "El espacio con condiciones para que viva un organismo es su ____.",
+    "opciones": [],
+    "correcta": "hábitat",
+    "retroalimentacion": "Proteger el hábitat ayuda a conservar a los organismos y sus relaciones.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000127",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "El transporte de polen que favorece la reproducción de numerosas plantas se llama ____.",
+    "opciones": [],
+    "correcta": "polinización",
+    "retroalimentacion": "Las abejas y otros polinizadores participan en este proceso.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000128",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Extraer organismos más rápido de lo que pueden recuperarse se conoce como ____.",
+    "opciones": [],
+    "correcta": "sobreexplotación",
+    "retroalimentacion": "La sobreexplotación puede reducir poblaciones y afectar beneficios de los ecosistemas.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000129",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Una especie cuya distribución natural está restringida a una región se llama especie ____.",
+    "opciones": [],
+    "correcta": "endémica",
+    "retroalimentacion": "Endémica indica distribución restringida; no significa automáticamente amenazada.",
+    "temaId": "tem_000002",
+    "nivel": 1,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000130",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué contar cien aves de una sola especie no basta para describir diversidad de especies?",
+    "opciones": [
+      "Porque la biodiversidad solo incluye microorganismos",
+      "Porque falta conocer qué especies diferentes están presentes",
+      "Porque las aves no forman parte de la biodiversidad",
+      "Porque cien individuos equivalen siempre a cien especies"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "La abundancia de una especie y la variedad de especies son características diferentes.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000131",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué diferencia hay entre diversidad genética y de ecosistemas?",
+    "opciones": [
+      "La primera compara diferencias heredables dentro de especies; la segunda, distintos ambientes y relaciones",
+      "Ambas se limitan al número de animales grandes",
+      "La primera solo incluye ríos y la segunda variedades de maíz",
+      "Ninguna considera a los seres vivos"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Cada nivel permite estudiar una dimensión distinta de la variedad de vida.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000132",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué proteger un hábitat puede beneficiar a más de una especie?",
+    "opciones": [
+      "Porque un hábitat contiene necesariamente una sola especie",
+      "Porque la protección elimina todas las relaciones alimentarias",
+      "Porque solo se conservan individuos aislados de su entorno",
+      "Porque varias especies y sus relaciones pueden depender del mismo espacio"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Los organismos forman parte de redes que pueden compartir condiciones de hábitat.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000133",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Cómo se relacionan la polinización y la disponibilidad de algunos alimentos?",
+    "opciones": [
+      "La polinización elimina la necesidad de plantas",
+      "Todos los alimentos se producen sin relaciones ecológicas",
+      "La reproducción de numerosas plantas depende del transporte de polen",
+      "El polen convierte minerales en alimentos elaborados"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La polinización sostiene la reproducción de plantas de las que obtenemos alimentos.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000134",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué una especie introducida y una invasora no son categorías equivalentes?",
+    "opciones": [
+      "La diferencia se decide solo por el tamaño del organismo",
+      "Ser invasora implica establecimiento fuera de su distribución natural y causar impactos",
+      "Cualquier introducción demuestra ausencia de efectos",
+      "Una invasora siempre es originaria de todos los lugares"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "No toda introducción produce los impactos que caracterizan a una especie invasora.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000135",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué explica que la pérdida de un hábitat pueda modificar una red alimentaria?",
+    "opciones": [
+      "Puede afectar organismos que cumplen funciones conectadas con otros seres vivos",
+      "Cada organismo vive sin relaciones con otras especies",
+      "Una red alimentaria solo contiene componentes fabricados",
+      "Eliminar hábitat crea automáticamente todas las funciones perdidas"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Los efectos pueden propagarse por conexiones entre productores, consumidores y descomponedores.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000136",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué diferencia hay entre conservación in situ y ex situ?",
+    "opciones": [
+      "La primera siempre elimina hábitats y la segunda los contamina",
+      "Las dos requieren liberar mascotas en cualquier ambiente",
+      "La primera solo cuenta individuos y la segunda solo mide lluvia",
+      "La primera actúa en ambientes naturales y la segunda mantiene componentes fuera de ellos"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Son estrategias distintas y complementarias de conservación.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000137",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué los beneficios de la biodiversidad no se limitan a alimentos y materias primas?",
+    "opciones": [
+      "Porque todo beneficio depende únicamente de vender productos",
+      "Porque las relaciones ecológicas solo tienen valor dentro de una fábrica",
+      "También incluyen regulación ambiental y valores culturales y científicos",
+      "Porque los seres vivos no proporcionan materiales"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Existen beneficios materiales y otros relacionados con funciones y valores de los ecosistemas.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000138",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Por qué es incorrecto equiparar endemismo y amenaza?",
+    "opciones": [
+      "Porque una amenaza depende únicamente del nombre de la especie",
+      "La distribución restringida no informa por sí sola sobre el estado de conservación",
+      "Porque toda especie endémica vive de forma natural en todo el planeta",
+      "Porque las especies endémicas no tienen hábitat"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Para valorar una amenaza se necesitan datos adicionales a la distribución.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000139",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "¿Qué significa restaurar un ambiente degradado?",
+    "opciones": [
+      "Buscar la recuperación de condiciones y funciones ecológicas",
+      "Reemplazar cualquier relación ecológica por un cartel",
+      "Considerar que un árbol aislado sustituye siempre a un bosque",
+      "Eliminar toda observación del ambiente"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La restauración considera procesos y relaciones, además de la presencia de organismos.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000140",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Los hongos que descomponen restos pueden contribuir al retorno de nutrientes al ambiente.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "La descomposición es una función ecológica vinculada con la fertilidad del suelo.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000141",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Si una especie no tiene un uso comercial conocido, carece de valor.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Las especies poseen valor más allá de su utilidad inmediata para las personas.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000142",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Una amenaza puede afectar a seres vivos y también a beneficios que obtiene una comunidad.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Las personas dependen de procesos y recursos de los ecosistemas.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000143",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La conservación ex situ vuelve innecesario proteger los hábitats naturales.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Mantener componentes fuera de su ambiente complementa la conservación de ecosistemas.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000144",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La pérdida de hábitat, la contaminación y la sobreexplotación pueden actuar al mismo tiempo.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Las presiones pueden combinar sus efectos sobre organismos y ecosistemas.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000145",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La extinción de una especie significa que su población reaparecerá naturalmente después de unos días.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La extinción representa su desaparición definitiva, no una ausencia temporal.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000146",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «genética» o «ecosistemas»: comparar variedades heredables de maíz permite estudiar diversidad ____.",
+    "opciones": [],
+    "correcta": "genética",
+    "retroalimentacion": "Las variedades de una misma especie corresponden al nivel genético.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000147",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «fragmentación» o «polinización»: dividir un ambiente en partes que pueden aislar poblaciones se llama ____.",
+    "opciones": [],
+    "correcta": "fragmentación",
+    "retroalimentacion": "La fragmentación altera la continuidad de un hábitat.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000148",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «in situ» o «ex situ»: proteger organismos en el lugar donde viven naturalmente es conservación ____.",
+    "opciones": [],
+    "correcta": "in situ",
+    "retroalimentacion": "In situ significa conservar en el ambiente natural.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000149",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «nativa» o «invasora»: una especie que pertenece naturalmente a una región se denomina ____.",
+    "opciones": [],
+    "correcta": "nativa",
+    "retroalimentacion": "La categoría nativa se relaciona con su distribución natural.",
+    "temaId": "tem_000002",
+    "nivel": 2,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000150",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una clase compara variedades de maíz con diferencias heredables. ¿Qué nivel de biodiversidad debe registrar?",
+    "opciones": [
+      "Diversidad genética",
+      "Diversidad de ecosistemas",
+      "Cantidad de objetos artificiales",
+      "Número de ríos de una cuenca"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Se comparan diferencias dentro de una especie, propias del nivel genético.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000151",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un grupo observa aves, árboles y hongos en el patio. ¿Qué registro aplica mejor el concepto de diversidad de especies?",
+    "opciones": [
+      "Registrar únicamente cuántas aves de una misma especie ve",
+      "Contar solo el número de bancos del patio",
+      "Sustituir toda observación por una suposición",
+      "Distinguir los tipos de organismos y documentar sus observaciones sin capturarlos"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La variedad de organismos puede estudiarse mediante observación respetuosa del entorno.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000152",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una comunidad quiere proteger la reproducción de plantas visitadas por abejas. ¿Qué acción es coherente con el tema?",
+    "opciones": [
+      "Liberar mascotas en cualquier ambiente",
+      "Cubrir de residuos las plantas visitadas",
+      "Conservar hábitats y plantas nativas que sostienen esas relaciones",
+      "Eliminar todos los espacios con vegetación"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La conservación de relaciones como la polinización requiere cuidar los organismos y su hábitat.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000153",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Se desea conservar plantas manteniendo parte de sus semillas fuera del hábitat natural. ¿Qué estrategia se está aplicando?",
+    "opciones": [
+      "Contaminación del aire",
+      "Conservación ex situ",
+      "Sobreexplotación",
+      "Fragmentación de hábitat"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Un banco de semillas es un ejemplo de mantenimiento ex situ.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000154",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un grupo protege una zona natural para conservar organismos y sus interacciones en ese lugar. ¿Qué modalidad aplica?",
+    "opciones": [
+      "Conservación in situ",
+      "Conservación ex situ en una colección de semillas",
+      "Extracción sin considerar recuperación",
+      "Sustitución del hábitat por materiales artificiales"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "In situ conserva los organismos en su ambiente natural.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000155",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una familia ya no puede cuidar una mascota. Según las acciones del tema, ¿qué debería evitar?",
+    "opciones": [
+      "Buscar una solución responsable de cuidado",
+      "Mantenerla bajo cuidado humano mientras resuelve la situación",
+      "Informarse antes de tomar una decisión",
+      "Liberarla en la naturaleza"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "El tema recomienda no liberar mascotas en ambientes naturales.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000156",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "En una ribera se detecta pérdida de vegetación y arrastre de suelo. ¿Qué propuesta aplica conservación del hábitat?",
+    "opciones": [
+      "Depositar residuos en el agua",
+      "Ignorar la ribera porque no es un banco de semillas",
+      "Proteger o recuperar vegetación adecuada y revisar cambios en el sitio",
+      "Eliminar la vegetación restante para igualar el terreno"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Recuperar condiciones del hábitat puede beneficiar a organismos y funciones del río.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000157",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una escuela organiza una observación del entorno. ¿Qué procedimiento aplica el cuidado de la biodiversidad?",
+    "opciones": [
+      "Liberar animales domésticos para aumentar el registro",
+      "Registrar seres vivos y relaciones sin capturarlos ni perturbarlos",
+      "Retirar organismos para completar rápidamente una lista",
+      "Modificar cada hábitat antes de observarlo"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "La actividad puede generar evidencia sin alterar innecesariamente el ambiente.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000158",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Se extraen organismos de un lugar más rápido de lo que se recuperan. ¿Qué amenaza debe identificar el grupo?",
+    "opciones": [
+      "Sobreexplotación",
+      "Polinización",
+      "Conservación de semillas",
+      "Descomposición de restos"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La sobreexplotación supera la capacidad de recuperación de las poblaciones.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000159",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una población local queda separada al dividirse su hábitat en partes. ¿Qué concepto sirve para describir esta situación?",
+    "opciones": [
+      "Diversidad genética por sí sola",
+      "Conservación ex situ",
+      "Formación de materias primas",
+      "Fragmentación"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La fragmentación puede aislar poblaciones al dividir los espacios que ocupan.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000160",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una campaña retira residuos de un espacio. ¿Qué indicador está directamente relacionado con su aplicación?",
+    "opciones": [
+      "Cantidad de mensajes sin relación con la limpieza",
+      "Nombre de la especie más conocida del grupo",
+      "Cantidad de residuos retirados en un plazo definido",
+      "Número de colores del afiche"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "El indicador debe medir una acción concreta relacionada con el problema detectado.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000161",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un manglar ofrece refugio y espacios de crianza para organismos acuáticos. ¿Qué beneficio debe registrar la clase?",
+    "opciones": [
+      "Fabricación natural de equipos industriales",
+      "Mantenimiento de hábitats y de condiciones para la vida acuática",
+      "Formación instantánea de petróleo",
+      "Eliminación de toda relación entre especies"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "El contenido identifica a los manglares como ambientes que sostienen organismos y relaciones.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000162",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Al registrar variedades de un cultivo dentro de una especie, una clase está aplicando el concepto de diversidad genética.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Las diferencias heredables dentro de una especie corresponden a ese nivel.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000163",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Una campaña para cuidar hábitats debe liberar mascotas en ellos para demostrar que aumentó la biodiversidad.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "El tema recomienda no liberar mascotas en la naturaleza.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000164",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Si una actividad busca conservar relaciones ecológicas, puede incluir la observación de polinizadores y plantas sin dañarlos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "La observación permite estudiar interacciones respetando el ambiente.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000165",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Para aplicar la definición de especie invasora basta con registrar que un organismo viene de otro lugar y omitir sus impactos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La definición requiere considerar su establecimiento fuera del área natural y sus impactos.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000166",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «genética» o «ecosistemas»: si un equipo compara un manglar, un bosque y un páramo, estudia diversidad de ____.",
+    "opciones": [],
+    "correcta": "ecosistemas",
+    "retroalimentacion": "Se comparan distintos ambientes y relaciones ecológicas.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000167",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «ex situ» o «in situ»: al organizar un banco de semillas fuera del ambiente natural se aplica conservación ____.",
+    "opciones": [],
+    "correcta": "ex situ",
+    "retroalimentacion": "Ex situ conserva componentes de la biodiversidad fuera de su hábitat natural.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000168",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «sobreexplotación» o «restauración»: un plan que busca recuperar funciones de un ambiente degradado realiza ____.",
+    "opciones": [],
+    "correcta": "restauración",
+    "retroalimentacion": "Restaurar implica favorecer la recuperación de condiciones y funciones.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000169",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «amenaza» o «beneficio»: la contaminación del agua que afecta organismos de un río representa una ____.",
+    "opciones": [],
+    "correcta": "amenaza",
+    "retroalimentacion": "La contaminación deteriora condiciones del hábitat y puede afectar a organismos y personas.",
+    "temaId": "tem_000002",
+    "nivel": 3,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000170",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "En un espacio se observan muchas aves de una sola especie y en otro varios tipos de aves, hongos y plantas. ¿Qué diferencia debe analizarse?",
+    "opciones": [
+      "Más individuos de una especie demuestran siempre más especies",
+      "Los hongos y las plantas no participan en la biodiversidad",
+      "La diversidad se mide únicamente por el tamaño de las aves",
+      "La abundancia de una especie y la variedad de especies son medidas distintas"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Se debe separar la cantidad de individuos de la variedad de organismos.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000171",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una ribera pierde vegetación, el río se vuelve más turbio y cambian condiciones para organismos acuáticos. ¿Qué secuencia causal es coherente con el contenido?",
+    "opciones": [
+      "Más bancos de semillas y formación automática de hábitats nuevos",
+      "Menor cobertura sin posibilidad de afectar al suelo o al agua",
+      "Pérdida de cobertura, arrastre de suelo y modificación del hábitat acuático",
+      "Mayor polinización, creación de petróleo y desaparición de toda contaminación"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "El caso relaciona cambios del terreno con condiciones del agua y del hábitat.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000172",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un informe concluye que una población disminuyó porque se vieron menos animales en una sola visita. ¿Qué falta para sostener mejor la conclusión?",
+    "opciones": [
+      "Cambiar el nombre de la población estudiada",
+      "Observaciones comparables y análisis de otras explicaciones posibles",
+      "Suponer que todo animal ausente está extinto",
+      "Contar solo el número de fotografías tomadas"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Una visita no basta para distinguir un cambio real de diferencias en la observación.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000173",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una especie tiene distribución restringida a un área y el informe la declara amenazada únicamente por ese dato. ¿Qué categorías se confunden?",
+    "opciones": [
+      "Endemismo y estado de amenaza",
+      "Conservación in situ y espacio natural",
+      "Fotosíntesis y producción de materia orgánica",
+      "Polinización y transporte de polen"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "La distribución restringida no determina por sí sola el estado de conservación.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000174",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Se detecta una especie introducida, pero todavía no se conocen sus efectos. ¿Qué información falta para analizar si corresponde llamarla invasora?",
+    "opciones": [
+      "El color del documento de observación",
+      "Únicamente el tamaño de su nombre",
+      "La cantidad de bancos de la escuela",
+      "Su establecimiento y sus impactos sobre el ambiente"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La procedencia externa no basta para demostrar los impactos de una invasión.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000175",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "En un lugar aumentan extracción de organismos y contaminación mientras disminuyen algunas poblaciones. ¿Qué análisis corresponde?",
+    "opciones": [
+      "Descartar contaminación porque hay otras amenazas",
+      "Concluir que la extracción siempre aumenta la recuperación",
+      "Considerar la combinación de presiones y reunir evidencia para distinguir efectos",
+      "Atribuir todo al endemismo sin estudiar las presiones"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Las amenazas pueden actuar juntas; identificar una no elimina la necesidad de analizar otras.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000176",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un plan conserva semillas, pero permite destruir todo el hábitat de las plantas. ¿Qué componente de la conservación queda desatendido?",
+    "opciones": [
+      "La posibilidad de mantener alguna semilla fuera del lugar",
+      "Las condiciones e interacciones que se mantienen en el ambiente natural",
+      "La existencia de una actividad ex situ",
+      "El registro del nombre de las semillas"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Conservar semillas complementa, pero no sustituye, la conservación de ecosistemas y relaciones.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000177",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un proyecto cuenta árboles plantados y afirma que ya recuperó todas las funciones de un bosque. ¿Qué inferencia excede lo medido?",
+    "opciones": [
+      "Equiparar presencia de árboles con recuperación completa de relaciones ecológicas",
+      "Reconocer que plantó un número determinado de árboles",
+      "Registrar las plantas que se incorporaron",
+      "Describir que se realizó una actividad"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Restauración y número de árboles plantados no son resultados equivalentes.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000178",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una menor presencia de polinizadores coincide con dificultades de reproducción en plantas del sitio. ¿Qué relación es pertinente estudiar?",
+    "opciones": [
+      "La formación de nuevos yacimientos minerales",
+      "La fabricación de objetos artificiales por insectos",
+      "La idea de que las plantas no mantienen interacciones",
+      "El transporte de polen y su papel en la reproducción de esas plantas"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La relación propuesta corresponde a una función de la polinización; debe contrastarse con evidencia.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000179",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un manglar protege organismos acuáticos y aporta beneficios a personas de la costa. ¿Qué conexión permite analizar ambos hechos?",
+    "opciones": [
+      "Un ecosistema solo puede tener un tipo de valor",
+      "Los organismos acuáticos no pueden compartir hábitat",
+      "Funciones ecológicas y beneficios humanos pueden depender del mismo ecosistema",
+      "Cada beneficio humano elimina todas las funciones ecológicas"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La biodiversidad vincula procesos naturales y bienestar de comunidades.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000180",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Al descomponerse restos, retornan nutrientes al ambiente. ¿Qué relación explica la importancia de muchos hongos y bacterias?",
+    "opciones": [
+      "Convierten todos los hábitats en productos industriales",
+      "Su función conecta restos orgánicos con disponibilidad de nutrientes",
+      "Solo importan por ser animales de gran tamaño",
+      "Su presencia impide toda relación con el suelo"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "La descomposición es una función dentro de las relaciones del ecosistema.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000181",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un informe solo enumera especies útiles para vender productos. ¿Qué dimensiones del valor de la biodiversidad está omitiendo?",
+    "opciones": [
+      "Valores ecológicos, culturales, científicos e intrínsecos",
+      "Únicamente el nombre de una materia prima",
+      "Solo el precio de los productos ya enumerados",
+      "La posibilidad de escribir una lista más corta"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "El valor de las especies no se limita a la utilidad comercial inmediata.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000182",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Dos grupos observan el mismo espacio en momentos y condiciones diferentes y registran cantidades distintas. ¿Qué debe analizarse antes de atribuirlo a pérdida de biodiversidad?",
+    "opciones": [
+      "La idea de que toda diferencia prueba extinción",
+      "Solo el tamaño de las hojas del cuaderno",
+      "La suposición de que observar no depende de condiciones",
+      "La comparabilidad de las observaciones y sus condiciones"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Distinguir variaciones del registro y cambios del ambiente exige observaciones comparables.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000183",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un bosque se divide en parcelas aisladas, aunque todavía quedan árboles. ¿Qué aspecto no revela el simple conteo total de árboles?",
+    "opciones": [
+      "Que existe un número de árboles contado",
+      "Que las parcelas pueden recibir un nombre",
+      "La pérdida de continuidad del hábitat y el posible aislamiento de poblaciones",
+      "Que los árboles son seres vivos"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La estructura y conexión del hábitat importan además de la cantidad de organismos.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000184",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Al analizar efectos de contaminación en un río conviene considerar organismos afectados y beneficios para la comunidad.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "El deterioro puede tener consecuencias ecológicas y sociales relacionadas.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000185",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Si un registro incluye una especie introducida, ya demuestra automáticamente que produjo impactos invasores.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Debe distinguirse la introducción del establecimiento con impactos.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000186",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La fragmentación puede cambiar relaciones entre poblaciones aunque todavía existan organismos en cada parte del hábitat.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "La división del espacio puede generar aislamiento y alterar conexiones.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000187",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Que un programa conserve semillas demuestra que ya protegió todas las redes alimentarias del ambiente de origen.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "Mantener semillas fuera del hábitat no equivale a conservar todas las relaciones in situ.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000188",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «abundancia» o «diversidad de especies»: contar muchos individuos de una sola especie describe su ____.",
+    "opciones": [],
+    "correcta": "abundancia",
+    "retroalimentacion": "La abundancia se refiere a cantidad de individuos; no equivale a variedad de especies.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000189",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Completa con «endemismo» o «amenaza»: si un informe solo demuestra distribución natural restringida, ha identificado ____.",
+    "opciones": [],
+    "correcta": "endemismo",
+    "retroalimentacion": "El endemismo describe distribución y no demuestra por sí mismo un estado de amenaza.",
+    "temaId": "tem_000002",
+    "nivel": 4,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000190",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Dos planes buscan cuidar un bosque: uno protege hábitat y relaciones; otro solo mantiene un ejemplar aislado. Según conservar interacciones, ¿cuál está mejor sustentado?",
+    "opciones": [
+      "El que mide solo cuántos organismos pueden mantenerse aislados",
+      "El que protege una especie sin revisar ninguna interacción del hábitat",
+      "El que protege hábitat y relaciones entre organismos",
+      "El que conserva un individuo, aunque elimine las condiciones donde vivía"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La conservación de biodiversidad considera organismos, condiciones y relaciones.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000191",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un equipo propone liberar mascotas para aumentar el número de animales de un parque. ¿Qué valoración corresponde?",
+    "opciones": [
+      "Es adecuada si se registran más individuos, aunque no se revise el impacto",
+      "No es una medida adecuada; el tema recomienda evitar liberarlas en la naturaleza",
+      "Es suficiente contar más animales sin evaluar procedencia ni efectos",
+      "Es adecuada si las mascotas están sanas, sin estudiar sus relaciones con el entorno"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Aumentar individuos de manera artificial no justifica introducir organismos en un ambiente.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000192",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una campaña solo cuenta afiches, aunque su objetivo es reducir residuos en un hábitat. ¿Qué indicador la hace más evaluable?",
+    "opciones": [
+      "Residuos retirados o presentes mediante registros comparables en un plazo definido",
+      "Número de afiches publicados, tomado como prueba suficiente de menos residuos",
+      "Cantidad de participantes, sin comprobar qué ocurrió en el espacio",
+      "Opinión final sobre limpieza, sin un registro relacionado con los residuos"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "El indicador debe relacionarse con el problema y con la acción que se quiere comprobar.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000193",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Se propone reemplazar toda protección del hábitat por un banco de semillas. ¿Qué juicio se ajusta al contenido?",
+    "opciones": [
+      "El banco hace innecesario mantener las relaciones del ambiente natural",
+      "Las semillas almacenadas garantizan por sí solas protección de toda la fauna",
+      "La protección del hábitat puede abandonarse si existe una colección de semillas",
+      "La estrategia ex situ puede complementar, pero no reemplaza las relaciones del ecosistema"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Las estrategias in situ y ex situ tienen alcances distintos y complementarios.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000194",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un informe declara extinta una especie porque no se la vio durante una salida escolar. ¿Cómo debería revisarse?",
+    "opciones": [
+      "Reemplazar las observaciones por una votación sobre si la especie existe",
+      "Declarar extinción sin revisar área observada ni información adicional",
+      "Reconocer que esa observación es insuficiente y buscar evidencia adicional",
+      "Aceptar la ausencia en una visita como prueba definitiva de extinción"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "La ausencia en un registro no demuestra por sí sola la desaparición definitiva de una especie.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000195",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Se comparan dos explicaciones de una especie endémica: una reconoce distribución restringida y otra afirma amenaza sin más datos. ¿Cuál tiene mejor sustento?",
+    "opciones": [
+      "La que interpreta distribución restringida como presencia natural en todos los países",
+      "La que describe distribución y pide información adicional para valorar amenaza",
+      "La que declara amenaza solamente por la distribución restringida",
+      "La que deduce que toda especie de distribución restringida es invasora"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Una valoración responsable distingue lo demostrado de lo que requiere otros datos.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000196",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un plan de restauración solo promete plantar árboles y recuperar de inmediato todo el bosque. ¿Qué mejora es necesaria?",
+    "opciones": [
+      "Definir condiciones y funciones que se busca recuperar y cómo se observarán sus cambios",
+      "Valorar solo cuántos árboles se plantaron sin revisar condiciones posteriores",
+      "Medir únicamente participación y concluir recuperación total del ecosistema",
+      "Dar por lograda la restauración antes de observar funciones y relaciones"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Restaurar exige evaluar funciones y condiciones; plantar árboles no asegura una recuperación completa.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000197",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una comunidad debe priorizar una acción frente a vertidos que afectan su río. ¿Cuál se alinea mejor con la amenaza observada?",
+    "opciones": [
+      "Organizar una colección de semillas sin actuar sobre las descargas detectadas",
+      "Retirar residuos visibles y declarar resueltos todos los vertidos sin comprobarlos",
+      "Publicar compromisos generales sin una acción sobre la causa observada",
+      "Prevenir las descargas y revisar condiciones del agua y del hábitat"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La acción debe corresponder a la causa identificada y permitir revisar sus resultados.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000198",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un grupo quiere observar biodiversidad escolar. ¿Qué plan combina evidencia y cuidado del entorno?",
+    "opciones": [
+      "Recolectar organismos para mejorar la lista sin valorar perturbaciones",
+      "Cambiar el sitio y el procedimiento en cada visita y comparar cifras sin advertirlo",
+      "Registrar organismos y relaciones sin capturarlos, con observaciones comparables",
+      "Hacer una sola visita y declarar completo el inventario del lugar"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Una indagación responsable reúne evidencia y evita perturbar innecesariamente el ambiente.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000199",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un proyecto solo protege especies con precio de venta conocido. ¿Qué criterio debería incorporarse para valorar mejor la biodiversidad?",
+    "opciones": [
+      "Únicamente la demanda actual de productos derivados de cada especie",
+      "Sus funciones ecológicas, valores culturales y científicos y valor más allá de usos inmediatos",
+      "El precio más alto que podría obtenerse por cada organismo",
+      "La facilidad de extraer organismos sin evaluar sus relaciones"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "El tema reconoce múltiples dimensiones de valor que no se reducen al comercio.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000200",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Dos acciones se ofrecen para conservar plantas: eliminar toda flora local o favorecer plantas nativas y cuidar el hábitat. ¿Cuál está mejor justificada?",
+    "opciones": [
+      "Favorecer plantas nativas y cuidar las condiciones del hábitat",
+      "Sustituir la flora local solo por especies elegidas por su apariencia",
+      "Elegir plantas sin revisar procedencia ni relación con el ambiente",
+      "Plantar sin revisar las condiciones del lugar y considerar terminada la conservación"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "El cuidado de plantas nativas y hábitats corresponde a las acciones de conservación del tema.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000201",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un informe llama invasora a una especie por su aspecto extraño. ¿Qué criterio debería exigirse?",
+    "opciones": [
+      "La diferencia de apariencia como prueba suficiente de impacto",
+      "La opinión de una persona sin registros de establecimiento ni efectos",
+      "La procedencia de otro lugar como único dato para declararla invasora",
+      "Evidencia de establecimiento fuera de su distribución natural y de impactos"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "La evaluación debe apoyarse en los rasgos de la definición y no en impresiones.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000202",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una campaña cuenta muchos participantes y afirma que ya restauró todas las redes alimentarias. ¿Qué juicio es más adecuado?",
+    "opciones": [
+      "Usar la cantidad de talleres como sustituto de observar el ecosistema",
+      "Considerar que un compromiso escrito equivale a un efecto ecológico demostrado",
+      "La participación es valiosa, pero no demuestra por sí sola recuperación de relaciones ecológicas",
+      "Dar por recuperadas todas las redes a partir del número de asistentes"
+    ],
+    "correcta": 2,
+    "retroalimentacion": "Se debe distinguir una actividad realizada del efecto ecológico que se desea lograr.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000203",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Para valorar una propuesta que protege manglares, ¿qué argumento del contenido es más pertinente?",
+    "opciones": [
+      "Valorar únicamente si se puede acceder al sitio para hacer fotografías",
+      "Sostienen hábitats de organismos acuáticos y contribuyen a proteger las costas",
+      "Suponer que cualquier manglar reemplaza todos los demás ecosistemas",
+      "Justificar la protección solo por contar árboles sin considerar funciones"
+    ],
+    "correcta": 1,
+    "retroalimentacion": "Los argumentos deben relacionarse con funciones y beneficios reales del ecosistema estudiado.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000204",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Un equipo observa menos animales después de una campaña y la declara un fracaso sin revisar condiciones. ¿Qué evaluación sería más rigurosa?",
+    "opciones": [
+      "Comparar observaciones equivalentes y analizar otras explicaciones antes de concluir",
+      "Aceptar una visita como prueba definitiva de fracaso",
+      "Descartar todos los registros anteriores porque contradicen la última impresión",
+      "Valorar el éxito solo por cuántas publicaciones tuvo la campaña"
+    ],
+    "correcta": 0,
+    "retroalimentacion": "Los cambios observados requieren evidencia comparable y una interpretación cuidadosa.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000205",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "opcion",
+    "enunciado": "Una propuesta promete «proteger la biodiversidad» sin precisar problema, acción ni seguimiento. ¿Qué versión es más evaluable?",
+    "opciones": [
+      "Definir una amenaza sin vincularla con una acción ni con seguimiento",
+      "Proponer una acción sin explicar qué problema atiende ni cómo revisarla",
+      "Usar el número de reuniones como único criterio de protección de la biodiversidad",
+      "Identificar una amenaza local, una acción viable y un registro para revisar su aplicación"
+    ],
+    "correcta": 3,
+    "retroalimentacion": "Una propuesta sólida conecta diagnóstico, acción y evidencia de aplicación.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000206",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Al evaluar conservación, es pertinente considerar si la acción protege relaciones ecológicas además de individuos.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "La biodiversidad incluye organismos y conexiones dentro de los ecosistemas.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000207",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Una medida de conservación puede aprobarse únicamente porque promete más animales, aunque implique liberar mascotas en la naturaleza.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La cantidad de individuos no sustituye la valoración de procedencia, relaciones y posibles efectos.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000208",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "Si una conclusión sobre pérdida de biodiversidad supera la evidencia recogida, conviene reconocer sus límites y ampliar las observaciones.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": true,
+    "retroalimentacion": "Distinguir evidencia de suposiciones mejora la evaluación de las explicaciones.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000209",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  },
+  {
+    "tipo": "vf",
+    "enunciado": "La mejor evaluación de un plan de restauración consiste en dar por recuperadas todas las funciones cuando se planta el primer árbol.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": false,
+    "retroalimentacion": "La restauración requiere observar condiciones y funciones y reconocer que la recuperación no es automática.",
+    "temaId": "tem_000002",
+    "nivel": 5,
+    "origen": "ia",
+    "estado": "aprobado",
+    "id": "pre_000210",
+    "fecha": "2026-11-04T16:39:17.291Z"
+  }
+]

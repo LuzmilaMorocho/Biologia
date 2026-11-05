@@ -1,0 +1,178 @@
+[
+  {
+    "id": "tem_000001",
+    "unidadId": "uni_000001",
+    "titulo": "Recursos naturales: definición, importancia y clasificación",
+    "orden": 1,
+    "objetivos": [
+      "Definir qué son los recursos naturales y mencionar ejemplos de su entorno.",
+      "Explicar la importancia de los recursos naturales para los ecosistemas y la vida humana.",
+      "Clasificar recursos renovables, no renovables y fuentes de flujo continuo, justificando el criterio utilizado.",
+      "Relacionar la conservación del agua, la vegetación y el suelo en una cuenca.",
+      "Proponer una acción viable de uso sostenible y un indicador sencillo para evaluar su aplicación."
+    ],
+    "resumen": "Los recursos naturales sostienen la vida y muchas actividades humanas. Su disponibilidad depende de los ciclos de la naturaleza, de su calidad y de cómo los utilizamos. Incluso un recurso renovable puede escasear o degradarse si su consumo supera su recuperación.\n\n**1. Definición y origen**\nUn recurso natural es un componente de la naturaleza que podemos aprovechar para satisfacer necesidades. El agua, el aire, la flora, la fauna, el suelo y los minerales son ejemplos. Una mesa es un producto elaborado; la madera con la que se fabrica procede de un recurso natural. Esta diferencia permite reconocer el origen de los materiales cotidianos.\n\n**2. Importancia ecológica y social**\nEl agua hace posibles procesos vitales; el suelo sostiene cultivos y alberga organismos; los bosques ofrecen alimento y refugio a la fauna. Las personas obtenemos alimentos, materias primas y fuentes de energía. Estos beneficios dependen de relaciones ecológicas: perder vegetación puede afectar a la vez al suelo, al agua y a los seres vivos.\n\n**3. Recursos renovables y sus límites**\nSon aquellos que pueden reponerse mediante procesos naturales en tiempos compatibles con su aprovechamiento, siempre que se respete su recuperación. Los bosques y las poblaciones de peces requieren condiciones para crecer y reproducirse. El agua se renueva mediante el ciclo hidrológico, pero una fuente local puede contaminarse o agotarse por extracción excesiva. Renovable no significa ilimitado.\n\n**4. Recursos no renovables**\nEl petróleo, el carbón, el gas natural y los yacimientos minerales se forman o concentran durante tiempos geológicos. Su extracción reduce reservas que no se reponen a escala humana. Reciclar cobre permite volver a utilizar parte del metal extraído, pero no produce un yacimiento nuevo ni elimina todos los impactos de la extracción.\n\n**5. Energía solar y viento**\nLa radiación del Sol y el movimiento del aire aportan flujos continuos de energía. Por eso se consideran fuentes renovables, a menudo llamadas inagotables a escala humana. Los paneles captan energía solar y los aerogeneradores aprovechan el viento. Su disponibilidad cambia con el lugar y el momento; las instalaciones también requieren materiales y una ubicación que considere sus impactos.\n\n**6. Agua, cuenca y suelo**\nLa evaporación, la condensación, la precipitación y la infiltración forman parte del ciclo del agua. Una cuenca reúne territorios cuyas aguas drenan hacia una salida común. La vegetación y el suelo influyen en la infiltración y en la erosión, que es la pérdida y transporte de suelo por agentes como el agua y el viento. El suelo fértil se forma muy lentamente: debe protegerse como un recurso no renovable a escala humana.\n\n**7. Uso responsable en el entorno ecuatoriano**\nEn una comunidad, el río puede abastecer actividades domésticas y agrícolas, mientras un bosque aporta hábitat y protección del suelo. Antes de aprovechar un recurso se debe identificar su origen, su velocidad de recuperación y quién depende de él. Cuidar la cobertura vegetal, reparar fugas, reducir residuos y evitar vertidos ayuda a conservar recursos relacionados entre sí.\n\n**8. Sostenibilidad y decisiones**\nEl uso sostenible busca satisfacer necesidades actuales manteniendo los procesos que permiten la vida y las posibilidades de las futuras generaciones. Incluye reducir el consumo innecesario, reutilizar objetos y reciclar materiales cuando sea posible. Conservar no se limita a usar menos: también exige prevenir la contaminación y recuperar áreas degradadas.\n\n**9. Caso y actividad de aplicación**\nCaso hipotético: un depósito recibe 70 unidades de agua y una comunidad extrae 100 en el mismo período. Si no hay otros aportes, su reserva disminuye aunque el ciclo del agua continúe. Explica qué información adicional necesitarías para decidir un uso responsable. Luego elige tres recursos de tu localidad, identifica su origen y clasificación, justifica sus límites y propone una acción medible, por ejemplo registrar fugas reparadas durante una semana. Evalúa tu propuesta por la evidencia utilizada, su viabilidad y el recurso que protege.",
+    "ejemplos": [
+      "El agua es renovable mediante el ciclo hidrológico, pero puede escasear o contaminarse en una localidad.",
+      "El petróleo se clasifica como no renovable porque tarda millones de años en formarse y sus reservas son limitadas.",
+      "Una mesa es un producto elaborado; la madera proviene de árboles y constituye una materia prima de origen natural.",
+      "Una población de peces puede disminuir si se capturan individuos más rápido de lo que se reproducen.",
+      "Cubrir el suelo con vegetación ayuda a reducir la erosión; reponer el suelo perdido requiere procesos muy lentos.",
+      "Un panel solar aprovecha radiación del Sol; su funcionamiento no convierte al petróleo en un recurso renovable."
+    ],
+    "erroresFrecuentes": [
+      "Clasificar un recurso como renovable solo porque se encuentra en la naturaleza.",
+      "Pensar que el agua dulce está disponible ilimitadamente.",
+      "Confundir un producto elaborado, como una mesa, con el recurso natural del que procede.",
+      "Considerar que la energía solar o el viento están disponibles con la misma intensidad en cualquier lugar y momento.",
+      "Suponer que reciclar un metal vuelve renovables a los yacimientos minerales.",
+      "Clasificar el suelo fértil como rápidamente renovable sin considerar su lenta formación."
+    ],
+    "preguntasGuia": [
+      "¿En qué se diferencian los recursos renovables y los no renovables?",
+      "¿Qué acciones ayudarían a cuidar el agua, el suelo o los bosques de tu comunidad?",
+      "¿Cuál es el origen natural de un objeto que usas todos los días?",
+      "¿Qué criterio usarías para comparar la recuperación de un bosque con la formación del petróleo?",
+      "¿Cómo puede la pérdida de vegetación afectar al suelo y al agua de una cuenca?",
+      "¿Qué dato registrarías para saber si una acción de ahorro de agua está funcionando?"
+    ],
+    "recursos": [
+      {
+        "tipo": "enlace",
+        "titulo": "Recursos Naturales",
+        "url": "https://drive.google.com/file/d/1IxZOIrvCWllh27DqDQ3gXP3p_Tcg5aFM/view?usp=sharing"
+      },
+      {
+        "tipo": "enlace",
+        "titulo": "FAO: funciones del suelo y su relación con el agua",
+        "url": "https://www.fao.org/land-water/soils/es"
+      },
+      {
+        "tipo": "enlace",
+        "titulo": "FAO: por qué el suelo necesita protección",
+        "url": "https://www.fao.org/newsroom/story/Cherishing-the-ground-we-walk-on/es"
+      }
+    ],
+    "palabrasClave": [
+      "recursos naturales",
+      "renovables",
+      "no renovables",
+      "sostenibilidad",
+      "agua",
+      "suelo",
+      "biodiversidad",
+      "no renovable",
+      "petróleo",
+      "carbón",
+      "minerales",
+      "cobre",
+      "energía solar",
+      "viento",
+      "cuenca",
+      "infiltración",
+      "erosión",
+      "reciclaje",
+      "consumo responsable"
+    ],
+    "dificultad": "intermedio",
+    "fuentes": "Complemento didáctico de la unidad de Biología de Bachillerato. Fuentes de contraste: FAO, Visión general sobre los suelos (https://www.fao.org/land-water/soils/es); FAO, Apreciar el suelo sobre el que caminamos (https://www.fao.org/newsroom/story/Cherishing-the-ground-we-walk-on/es); EIA, Sources of energy (https://www.eia.gov/energyexplained/what-is-energy/sources-of-energy.php). Se conserva el recurso original del tema; su enlace de Drive no pudo verificarse. El caso numérico es hipotético.",
+    "estado": "publicado",
+    "fecha": "2026-10-31T00:00:00.000Z"
+  },
+  {
+    "id": "tem_000002",
+    "unidadId": "uni_000001",
+    "titulo": "Importancia de la biodiversidad: beneficios, amenazas y conservación",
+    "orden": 2,
+    "objetivos": [
+      "Explicar qué es la biodiversidad y reconocer sus niveles: ecosistemas, especies y diversidad genética.",
+      "Identificar al menos tres beneficios que la biodiversidad aporta a los ecosistemas y a las personas.",
+      "Proponer dos acciones viables para conservar la biodiversidad en su entorno.",
+      "Relacionar una amenaza con sus posibles efectos sobre hábitats, organismos y beneficios para las personas.",
+      "Distinguir especies nativas, endémicas e invasoras y reconocer acciones de conservación y restauración.",
+      "Registrar observaciones del entorno y justificar una propuesta de conservación con evidencia sencilla."
+    ],
+    "resumen": "La biodiversidad comprende la variedad de genes, especies, ecosistemas y sus relaciones. Cuidar los hábitats protege a los organismos y a las comunidades humanas que dependen de ellos.\n\n**1. Los tres niveles de biodiversidad**\nLa diversidad genética comprende diferencias heredables dentro de una especie, como las que existen entre variedades de maíz. La diversidad de especies incluye distintos organismos: aves, insectos, árboles, hongos y microorganismos. La diversidad de ecosistemas abarca ambientes y relaciones diferentes, por ejemplo un río, un bosque, un manglar o un páramo. Contar muchos individuos de una sola especie no demuestra, por sí solo, gran diversidad de especies.\n\n**2. Relaciones, hábitat y redes alimentarias**\nUn ecosistema integra seres vivos y componentes físicos como agua, aire y suelo. El hábitat es el espacio con las condiciones donde vive un organismo. Las plantas producen materia orgánica por fotosíntesis; los consumidores se alimentan de otros organismos; muchos hongos y bacterias descomponen restos. Las redes alimentarias conectan estas relaciones. La pérdida de un hábitat puede alterar varias conexiones.\n\n**3. Beneficios y valor de la biodiversidad**\nObtenemos alimentos, fibras, materias primas y compuestos que se estudian para elaborar medicinas. Los ecosistemas contribuyen a regular el agua y el clima. Las abejas y otros polinizadores transportan polen, favoreciendo la reproducción de numerosas plantas. La descomposición devuelve nutrientes al ambiente y contribuye a la fertilidad del suelo. También existen valores culturales, científicos y recreativos. Las especies tienen valor más allá de su utilidad inmediata para las personas.\n\n**4. Amenazas y sus consecuencias**\n- La pérdida de hábitat elimina espacios para vivir; la fragmentación los divide y puede aislar poblaciones.\n- La sobreexplotación ocurre cuando la extracción de organismos supera su capacidad de recuperación.\n- La contaminación introduce sustancias o residuos que deterioran las condiciones del agua, del aire o del suelo.\n- El cambio climático modifica condiciones como temperatura y lluvias, afectando a especies y ecosistemas.\n- Una especie exótica invasora se establece fuera de su distribución natural y causa impactos; no toda especie introducida es invasora.\nEstas presiones pueden actuar juntas. Una especie extinta no se recupera de manera natural en poco tiempo: la extinción representa su desaparición definitiva.\n\n**5. Un caso para analizar causas y efectos**\nCaso hipotético: se retira vegetación de una ribera y las lluvias arrastran suelo al río. Aumenta la turbidez del agua y cambian condiciones del hábitat acuático. Algunas especies y los beneficios para la comunidad pueden verse afectados. ¿Qué observaciones permitirían distinguir este efecto de otras causas posibles?\n\n**6. Biodiversidad en Ecuador y en la localidad**\nLos manglares costeros proporcionan refugio y espacios de crianza para organismos acuáticos y contribuyen a proteger las costas. Los bosques y páramos son otros ecosistemas que requieren conservación. En el entorno escolar puedes observar flora, fauna y hongos sin capturarlos. Una especie nativa pertenece naturalmente a una región; una endémica tiene una distribución natural restringida a un área determinada. Ninguna de estas categorías significa, por sí sola, que esté amenazada.\n\n**7. Conservación y restauración**\nLa conservación in situ protege organismos en sus ambientes, por ejemplo mediante el cuidado de hábitats y áreas protegidas. La conservación ex situ mantiene componentes de la diversidad fuera de su ambiente natural, como en bancos de semillas; complementa la protección de ecosistemas. Restaurar busca recuperar condiciones y funciones de ambientes degradados. Plantar árboles no reemplaza automáticamente todas las relaciones de un bosque. Ayudan también reducir residuos, cuidar el agua, favorecer plantas nativas y no liberar mascotas en la naturaleza.\n\n**8. Actividad y autoevaluación**\nObserva un espacio cercano sin perturbarlo. Registra tres tipos de seres vivos y una relación entre ellos. Identifica un beneficio, una amenaza y una acción viable; indica cómo revisarías su aplicación la semana siguiente. Ver menos animales en una visita no demuestra por sí solo que disminuya su población. Evalúa tu explicación por la evidencia, la relación causa-efecto y la viabilidad de la acción.\n\n**Créditos y licencia**\nAdaptación y ampliación de la infografía de Luzmila Morocho (2026), segundo de Bachillerato, con fuentes complementarias enlazadas. Material adaptado bajo licencia CC BY-SA 4.0.",
+    "ejemplos": [
+      "Las abejas y otros polinizadores ayudan a la reproducción de muchas plantas y cultivos.",
+      "Los manglares ofrecen hábitat y zonas de reproducción para diversas especies, además de ayudar a proteger las costas.",
+      "La contaminación de un río puede afectar a los organismos acuáticos y a las comunidades que dependen de esa agua.",
+      "Las variedades de maíz ilustran diferencias heredables dentro de una misma especie.",
+      "La presencia de aves, árboles y hongos ilustra diversidad de especies; un gran número de aves de una sola especie no mide esa diversidad.",
+      "Un banco de semillas puede complementar la conservación de plantas; proteger sus hábitats conserva también sus relaciones ecológicas."
+    ],
+    "erroresFrecuentes": [
+      "Confundir biodiversidad con cantidad de individuos de una sola especie.",
+      "Suponer que una especie extinta puede recuperarse naturalmente en poco tiempo.",
+      "Creer que biodiversidad significa únicamente variedad de animales.",
+      "Llamar invasora a toda especie introducida sin comprobar su establecimiento y sus impactos.",
+      "Confundir especie endémica con especie necesariamente amenazada.",
+      "Suponer que plantar árboles sustituye automáticamente a un bosque y a todas sus relaciones ecológicas.",
+      "Afirmar que hay menos biodiversidad únicamente por observar menos animales en una visita."
+    ],
+    "preguntasGuia": [
+      "¿Qué significa biodiversidad y cuáles son sus niveles?",
+      "¿Qué puede ocurrir cuando se destruye o fragmenta un hábitat?",
+      "¿Qué acciones concretas podrían ayudar a conservar la biodiversidad en tu comunidad?",
+      "¿Qué diferencia hay entre la diversidad genética de un cultivo y la diversidad de especies de un bosque?",
+      "¿Cómo se relacionan la polinización, la producción de frutos y la alimentación?",
+      "¿Por qué proteger el hábitat puede ser más eficaz que cuidar solo un individuo?",
+      "¿Qué observarías antes y después de una acción de conservación para evaluar su aplicación?"
+    ],
+    "recursos": [
+      {
+        "tipo": "pdf",
+        "titulo": "Importancia de la Biodiversidad",
+        "url": "/recursos/subidas/9cbc94aee95b7e6531b3a82f044f5561.pdf"
+      },
+      {
+        "tipo": "enlace",
+        "titulo": "CONABIO: niveles de la biodiversidad",
+        "url": "https://www.biodiversidad.gob.mx/biodiversidad/que_es.html"
+      },
+      {
+        "tipo": "enlace",
+        "titulo": "Importancia y beneficios de la biodiversidad",
+        "url": "https://www.argentina.gob.ar/ambiente/contenidos/biodiversidad"
+      },
+      {
+        "tipo": "enlace",
+        "titulo": "Conservación de los manglares en Ecuador",
+        "url": "https://www.ambienteyenergia.gob.ec/ambiente/la-conservacion-del-ecosistema-de-manglar-una-prioridad-para-el-pais/"
+      }
+    ],
+    "palabrasClave": [
+      "biodiversidad",
+      "ecosistema",
+      "especies",
+      "diversidad genética",
+      "hábitat",
+      "polinización",
+      "conservación",
+      "contaminación",
+      "fragmentación",
+      "cambio climático",
+      "genes",
+      "flora",
+      "fauna",
+      "hongos",
+      "abejas",
+      "polen",
+      "redes alimentarias",
+      "manglar",
+      "páramo",
+      "sobreexplotación",
+      "especie nativa",
+      "endemismo",
+      "especie invasora",
+      "restauración",
+      "semillas",
+      "conservación in situ",
+      "conservación ex situ"
+    ],
+    "dificultad": "intermedio",
+    "fuentes": "Base local: infografía Importancia de la biodiversidad, Luzmila Morocho, segundo de Bachillerato, 9 de octubre de 2026, licencia CC BY-SA 4.0, conservada como PDF adjunto. Adaptación y ampliación con la misma licencia. Fuentes de contraste: CONABIO (https://www.biodiversidad.gob.mx/biodiversidad/que_es.html); Argentina, Biodiversidad (https://www.argentina.gob.ar/ambiente/contenidos/biodiversidad); PNUMA, Five drivers of the nature crisis (https://www.unep.org/en/news-and-stories/story/five-drivers-nature-crisis); CDB, Artículo 2 (https://www.cbd.int/convention/articles?a=cbd-02); Ministerio del Ambiente y Agua del Ecuador, Conservación del manglar (https://www.ambienteyenergia.gob.ec/ambiente/la-conservacion-del-ecosistema-de-manglar-una-prioridad-para-el-pais/). El caso de la ribera es hipotético.",
+    "estado": "publicado",
+    "fecha": "2026-10-31T00:00:00.000Z"
+  }
+]

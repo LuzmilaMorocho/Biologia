@@ -1,0 +1,6 @@
+.simulador-contenido { max-width: calc(var(--espaciado-2xl) * 19); margin-inline: auto; }
+.simulador-contenido h1, .simulador-contenido li { overflow-wrap: anywhere; }
+.simulador-contenido h2:focus { outline: var(--espaciado-xs) solid var(--color-info); outline-offset: var(--espaciado-xs); }
+.simulador-contenido .tarjeta { margin-top: var(--espaciado-l); }
+.simulador-imagen { display: block; max-width: 100%; max-height: calc(var(--espaciado-2xl) * 8); object-fit: contain; margin-block: var(--espaciado-m); border-radius: var(--radio-m); }
+.simulador-informe { display: grid; gap: var(--espaciado-l); padding-inline-start: var(--espaciado-l); }

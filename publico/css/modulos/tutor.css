@@ -1,0 +1,18 @@
+.tutor-tema { display: grid; gap: var(--espaciado-l); min-width: 0; }
+.tutor-tema [hidden] { display: none; }
+.tutor-tema header { overflow-wrap: anywhere; }
+.tutor-tema__acciones, .tutor-tema__preguntas { display: flex; flex-wrap: wrap; align-items: center; gap: var(--espaciado-s); }
+.tutor-tema__acciones .btn, .tutor-tema__preguntas .btn { white-space: normal; max-width: 100%; overflow-wrap: anywhere; }
+.tutor-tema__preguntas .btn { border-radius: var(--radio-l); text-align: left; }
+.tutor-tema__chat { display: grid; gap: var(--espaciado-m); min-width: 0; }
+.tutor-tema__historial { display: flex; flex-direction: column; gap: var(--espaciado-m); max-height: 55vh; min-height: 20vh; overflow-y: auto; padding: var(--espaciado-s); overscroll-behavior: contain; }
+.tutor-tema__burbuja { align-self: flex-start; max-width: 90%; min-width: 0; padding: var(--espaciado-m); border-radius: var(--radio-l); background: var(--color-fondo); color: var(--color-texto); }
+.tutor-tema__burbuja--estudiante { align-self: flex-end; background: var(--color-primario); color: var(--color-texto-inverso); }
+.tutor-tema__texto { overflow-wrap: anywhere; }
+.tutor-tema__texto p { margin-block: var(--espaciado-xs); }
+.tutor-tema__texto ul { padding-inline-start: var(--espaciado-l); }
+.tutor-tema__pensando { color: var(--color-texto-suave); font-weight: var(--peso-medio); }
+.tutor-tema textarea { resize: vertical; }
+@media (max-width: 767px) {
+  .tutor-tema__burbuja { max-width: 100%; }
+}

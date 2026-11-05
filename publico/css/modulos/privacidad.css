@@ -1,0 +1,9 @@
+/* Estilos específicos del módulo privacidad */
+.privacidad-seccion {
+  max-width: 800px; /* PROVISIONAL */
+}
+
+.privacidad-seccion h2 {
+  font-size: var(--tamano-xl);
+  margin-top: var(--espaciado-l);
+}

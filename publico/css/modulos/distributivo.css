@@ -1,0 +1,37 @@
+/* Estilos para el módulo de distributivo */
+
+.distributivo-cabecera {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--espaciado-m);
+  margin-bottom: var(--espaciado-l);
+}
+
+.selector-estudiantes-lista {
+  max-height: 220px;
+  overflow-y: auto;
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-m);
+  padding: var(--espaciado-s);
+  background-color: var(--color-fondo);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xs);
+}
+
+.estudiante-opcion {
+  display: flex;
+  align-items: center;
+  gap: var(--espaciado-s);
+  padding: var(--espaciado-xs) var(--espaciado-s);
+  border-radius: var(--radio-s);
+  cursor: pointer;
+  background-color: var(--color-superficie);
+  transition: background-color var(--transicion);
+}
+
+.estudiante-opcion:hover {
+  background-color: var(--color-borde);
+}

@@ -1,0 +1,183 @@
+/* Estilos para el juego Sopa de Letras (P05.1) */
+
+.sopa-estado-ia {
+  margin: 0;
+  color: var(--color-texto-suave);
+  font-size: var(--tamano-s);
+}
+
+.sopa-contenedor {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-l);
+}
+
+.sopa-cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--espaciado-m);
+  border-bottom: 1px solid var(--color-borde);
+  padding-bottom: var(--espaciado-m);
+}
+
+.sopa-marcador {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--espaciado-m);
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-m) var(--espaciado-l);
+  box-shadow: var(--sombra-1);
+}
+
+.sopa-estadistica {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-xs);
+}
+
+.sopa-estadistica__etiqueta {
+  font-size: var(--tamano-xs);
+  color: var(--color-texto-suave);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: var(--peso-seminegrita);
+}
+
+.sopa-estadistica__valor {
+  font-size: var(--tamano-xl);
+  font-weight: var(--peso-extranegrita);
+  color: var(--color-primario);
+}
+
+.sopa-cuerpo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-l);
+}
+
+@media (min-width: 768px) {
+  .sopa-cuerpo {
+    display: grid;
+    grid-template-columns: 1fr 280px;
+    align-items: start;
+  }
+}
+
+/* Grilla de la Sopa de Letras */
+.sopa-grilla-envoltorio {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-m);
+  box-shadow: var(--sombra-1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.sopa-grilla {
+  display: grid;
+  gap: 2px;
+  width: 100%;
+  max-width: 520px;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  background-color: var(--color-borde);
+  padding: 2px;
+  border-radius: var(--radio-m);
+}
+
+.sopa-celda {
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-superficie);
+  font-family: var(--fuente-base);
+  font-size: clamp(0.75rem, 2.5vw, 1.15rem);
+  font-weight: var(--peso-negrita);
+  color: var(--color-texto);
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  transition: background-color 0.15s ease, color 0.15s ease;
+  border-radius: var(--radio-s);
+}
+
+.sopa-celda:hover {
+  background-color: var(--color-fondo);
+}
+
+.sopa-celda--resaltada {
+  background-color: var(--color-acento) !important;
+  color: var(--color-primario) !important;
+}
+
+.sopa-celda--encontrada {
+  background-color: var(--color-exito) !important;
+  color: var(--color-texto-inverso) !important;
+}
+
+.sopa-celda--revelada {
+  background-color: var(--color-error) !important;
+  color: var(--color-texto-inverso) !important;
+  opacity: 0.85;
+}
+
+/* Panel lateral con las palabras a buscar */
+.sopa-palabras-panel {
+  background-color: var(--color-superficie);
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio-l);
+  padding: var(--espaciado-m);
+  box-shadow: var(--sombra-1);
+  display: flex;
+  flex-direction: column;
+  gap: var(--espaciado-m);
+}
+
+.sopa-palabras-lista {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--espaciado-xs);
+}
+
+@media (min-width: 768px) {
+  .sopa-palabras-lista {
+    flex-direction: column;
+  }
+}
+
+.palabra-item {
+  padding: var(--espaciado-xs) var(--espaciado-s);
+  border-radius: var(--radio-s);
+  background-color: var(--color-fondo);
+  border: 1px solid var(--color-borde);
+  font-size: var(--tamano-xs);
+  font-weight: var(--peso-seminegrita);
+  color: var(--color-primario);
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--espaciado-xs);
+  transition: opacity var(--transicion), background-color var(--transicion);
+}
+
+.palabra-item--tachada {
+  text-decoration: line-through;
+  opacity: 0.45;
+  background-color: var(--color-superficie);
+  color: var(--color-texto-suave);
+  border-color: transparent;
+}
+
